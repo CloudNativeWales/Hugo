@@ -1,6 +1,6 @@
 title = "CloudNativeWales"
 description= "Everything Cloud Native"
-baseURL = "https://cloudnativewales.netlify.com"
+baseURL = "https://cloudnativewales.io"
 languageCode = "en-gb"
 theme = "ananke"
 
