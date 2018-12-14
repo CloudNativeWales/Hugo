@@ -24,7 +24,7 @@ I ([@denhamparry](https://twitter.com/denhamparry)) attended NDC London at the s
 
 From this point, [Cloud Native Wales (CNW)](https://cloudnativewales) [@cloudnativewal](https://twitter.com/cloudnativewal) was born.  That night I spoke to [Salman](https://twitter.com/soulmaniqbal) with the news, we had been working on a *Kubernetes 101* workshop concept.  He was just as excited as I was.
 
-Later that week, we had our first workshop confirmed in Cardiff, Wales.  We spent a number of weeks preparing for the 3 hour event which is blogged about [here](https://katacoda.com/blog/).  31 people attended and was a resounding success. This showed us that there was interest in Cloud Native technologies in Cardiff.
+Later that week, we had our first workshop confirmed in Cardiff, Wales.  We spent a number of weeks preparing for the 3 hour event which is blogged about [here](https://katacoda.com/blog/running-a-katacoda-workshop-at-your-community-meetup).  31 people attended and was a resounding success. This showed us that there was interest in Cloud Native technologies in Cardiff.
 
 Salman and I started to plan how to create this event, the only experience I've had of hosting anything like this was from house parties. We attended as many meetups as we could to get the tips from the community.
 
