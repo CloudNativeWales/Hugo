@@ -10,7 +10,7 @@ date: 2018-05-19T20:16:07Z
 description: The one when CNW held their first Cardiff meetup.  Will the speakers
   remember their slides, will the attendees turn up and will there be pizza and beer?
 draft: false
-featured_image: images/2018/05/001_MEETUP_PROFILE.jpg
+featured_image: /images/2018/05/001_MEETUP_PROFILE.jpg
 slug: 001_ourfirstmeetup
 tags:
 - meetup

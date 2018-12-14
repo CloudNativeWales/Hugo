@@ -9,7 +9,7 @@ date: 2018-05-17T20:14:35Z
 description: Join us as we read through Kris Nova's book. This book explains the practices,
   patterns and requirements for creating cloud native infrastructure.
 draft: false
-featured_image: images/2018/05/CloudNativeInfrastructure.jpg
+featured_image: /images/2018/05/CloudNativeInfrastructure.jpg
 slug: cloudnativeinfrastructure
 tags:
 - book club
