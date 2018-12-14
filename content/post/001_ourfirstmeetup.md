@@ -40,10 +40,10 @@ Exciting times indeed.
 
 Meetup hosted at DevOpsGuys on 22nd floor opened doors at 6.30 pm. By this time, the main room was ready to receive all the attendees and importantly the pizzas and drinks had been already laid out. As people arrived the room started to fill up. It was great to see people getting to know each other who worked in different roles and came from different backgrounds. We could already start to see the power Cloud Native Technology has to bring people together in a room to share ideas and experiences. 
 
-![001_FIRSTMEETUP_PIZZA](/content/images/2018/05/001_FIRSTMEETUP_PIZZA.jpg) *Pizzas!*
+![001_FIRSTMEETUP_PIZZA](/images/2018/05/001_FIRSTMEETUP_PIZZA.jpg) *Pizzas!*
 
 
-![001_FIRSTMEETUP_PEOPLEFILLINGIN](/content/images/2018/05/001_FIRSTMEETUP_PEOPLEFILLINGIN.JPG) *CNW members arriving for first meetup*
+![001_FIRSTMEETUP_PEOPLEFILLINGIN](/images/2018/05/001_FIRSTMEETUP_PEOPLEFILLINGIN.JPG) *CNW members arriving for first meetup*
 
 ## A Warm Welcome from Cloud Native Wales
 
@@ -51,7 +51,7 @@ The proceedings of the day kicked-off with Lewis and Salman extending a warm wel
 
 The presentation can be found [here](https://docs.google.com/presentation/u/1/d/1xTFHjCyecWQ5QespLGLFNvidirN7YkbL3-A49o4gIck/edit?usp=sharing). Fun fact: Lewis completed this presentation before the meetup, sitting on bike rack, next to a toilet on a train from Bristol to Cardiff!
 
-![001_FIRSTMEETUP_TRAIN](/content/images/2018/05/001_FIRSTMEETUP_TRAIN.jpeg) *Lewis with his last minute editing of CNW slides* 
+![001_FIRSTMEETUP_TRAIN](/images/2018/05/001_FIRSTMEETUP_TRAIN.jpeg) *Lewis with his last minute editing of CNW slides* 
 
 And with this, it was time to hand over the floor to CNW's first ever speaker, [Matthew MacDonald Wallace](https://twitter.com/mbconsultinguk) 
 
@@ -61,7 +61,7 @@ And with this, it was time to hand over the floor to CNW's first ever speaker, [
 
 Matt started with a simple question which really had people thinking. Can physical IoT devices be cloud native? He brought with him some devices (the "things" of "Internet of Things") to show the Meetup attendees: one with Bluetooth & WiFi connectivity, one with cellular (2G/3G), one WiFi only, and intriguingly, a device around the size of a thumb with 8 analogue and digital inputs and outputs, so information can be collected from eight different sensors using a tiny device and have the results broadcast over radio. 
 
-![001_MATTHEWMACDONALDWALLACE](/content/images/2018/05/001_MATTHEWMACDONALDWALLACE.jpg) *Matthew with the first ever CNW talk!*
+![001_MATTHEWMACDONALDWALLACE](/images/2018/05/001_MATTHEWMACDONALDWALLACE.jpg) *Matthew with the first ever CNW talk!*
 
 Additionally, a [LoRaWAN](https://www.thethingsnetwork.org/docs/lorawan/) device was shown. Matt then discussed the use of Cloud Native technologies to aggregate and analyse the data captured by the 'things', along with a discussion of the devices' benefits and shortcomings.
 
@@ -80,7 +80,7 @@ There were a number of announcements in KubeCon EU 2018. One announcement which 
 
 James started with a brief introduction into what Kubernetes is, its benefits and how it helps with container orchestration. He explained that due to Kubernetes' overwhelming popularity, it is used as a tool of choice with Jenkins X. Jenkins X tries to solve the challenges of getting started with Kubernetes, deploying applications, migrating application to the cloud and how applications can be accessed amongst other things. 
 
-![001_FIRSTMEETUP_JAMES](/content/images/2018/05/001_FIRSTMEETUP_JAMES.jpeg) *James & Jenkins X!*
+![001_FIRSTMEETUP_JAMES](/images/2018/05/001_FIRSTMEETUP_JAMES.jpeg) *James & Jenkins X!*
 
 In a series of live demos, James showed how easy it was to setup Kubernetes and deploy your application in public cloud using the Jenkins X command line tool, 'jx'. He also showed how Jenkins X creates a preview environment to test your application when a pull request is created. This really showed how Jenkins X is embracing the GitOps methodology. A lot of people were excited to give Jenkins X a try as it simplifies usage of Kubernetes!
 
@@ -101,24 +101,24 @@ Head [here](https://jenkins-x.io/) to find out more about Jenkins X. If you woul
 
 We previously spoke about the venue in our previous post, [000_CNWSETUP](https://blog.cloudnativewales.io/000_cnwsetup/). We were hoping for a blue sky day and that's what we got, and had amazing views across all of Cardiff.
 
-![001_VIEW00](/content/images/2018/05/001_VIEW00.jpg)
+![001_VIEW00](/images/2018/05/001_VIEW00.jpg)
 *Cardiff Castle*
 
-![001_VIEW01](/content/images/2018/05/001_VIEW01.jpg)
+![001_VIEW01](/images/2018/05/001_VIEW01.jpg)
 *View towards Cardiff Bay / Penarth*
 
-![001_VIEW02](/content/images/2018/05/001_VIEW02.jpg)
+![001_VIEW02](/images/2018/05/001_VIEW02.jpg)
 *View towards Newport*
 
 ### The Attendees
 
 We officially counted 48 attendees (not including Speakers, CNW members and DevOpsGuys (DOG) staff).  It was great to see a community come together at the event, sharing their own stories and ideas as well as listening to our speakers share their talks.
 
-![001_ROOMVIEW01](/content/images/2018/05/001_ROOMVIEW01.jpg)
+![001_ROOMVIEW01](/images/2018/05/001_ROOMVIEW01.jpg)
 
-![001_ROOMVIEW02](/content/images/2018/05/001_ROOMVIEW02.jpg)
+![001_ROOMVIEW02](/images/2018/05/001_ROOMVIEW02.jpg)
 
-![001_ROOMVIEW00](/content/images/2018/05/001_ROOMVIEW00.jpg)
+![001_ROOMVIEW00](/images/2018/05/001_ROOMVIEW00.jpg)
 
 ### The Speakers
 
@@ -128,14 +128,14 @@ Our first speakers have set the bar high for future events.  The feedback receiv
 
 It takes a lot of effort for speakers to create talks with great content and then presenting them to a new crowd.  We're so grateful for this that we offer small gifts of thanks.  This time, we got Matthew a selection of [Crafty Devil](https://twitter.com/craftydevilbrew) beers (a local microbrewery in Cardiff) and James a t-shirt from a bar we met at in Copenhagen, [WarPigs](https://twitter.com/WarPigs_Brewpub).  They're small gifts in comparison to the amount of gratitude we have for them to take the time and effort to share their talks.
 
-![001_JAMESRAWLINGS03](/content/images/2018/05/001_JAMESRAWLINGS03.jpg)
+![001_JAMESRAWLINGS03](/images/2018/05/001_JAMESRAWLINGS03.jpg)
 *We are not associated with WarPigs but it seems most developers are*
 
 ### The Announcement
 
 We announced our [CNW Book Club](https://blog.cloudnativewales.io/bookclub/) initiative (more details can be found on the link).  The first two books were announced, [Docker on Windows by Elton Stoneman](https://blog.cloudnativewales.io/dockeronwindows/) and [Cloud Native Infrastructure by Kris Nova & Justin Garrison](https://blog.cloudnativewales.io/cloudnativeinfrastructure/).  We had a lot of positive feedback about this on the night and the days following.  Please feel free to share this to others around Wales who might be interested.
 
-![001_BOOKCLUB00](/content/images/2018/05/001_BOOKCLUB00.jpg)
+![001_BOOKCLUB00](/images/2018/05/001_BOOKCLUB00.jpg)
 *Announcement time *
 
 ### The Learning
@@ -151,7 +151,7 @@ Even though we had a great evening, we made a couple of mistakes which we're hop
 
 We ran a Twitter poll and Tiny Rebel won, so we finished and went to the pub.
 
-![At the pub](/content/images/2018/05/001_PUB-1.jpg)
+![At the pub](/images/2018/05/001_PUB-1.jpg)
 
 ### The Next Meetup
 

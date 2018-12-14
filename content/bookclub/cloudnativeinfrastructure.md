@@ -53,7 +53,7 @@ Readers will learn what future patterns to look for to stay ahead of the curve, 
 
 ### Kris Nova
 
-![KrisNova](/content/images/2018/05/KrisNova-1.png)
+![KrisNova](/images/2018/05/KrisNova-1.png)
 
 [Kris Nova](https://twitter.com/krisnova) lives and breathes open source. She is transgender and is transparent about all things in her life. She believes in advocating for the best interest of the software and keeping the design process open and honest. She is a backend infrastructure engineer, with roots in Linux and C. She has a deep technical background in the Go programming language and has authored many successful tools in Go.
 
@@ -61,6 +61,6 @@ She is a Kubernetes maintainer and the creator of kubicorn, a successful Kuberne
 
 ### Justin Garrison
 
-![JustinGarrison](/content/images/2018/05/JustinGarrison-1.jpeg)
+![JustinGarrison](/images/2018/05/JustinGarrison-1.jpeg)
 
 [Justin](https://twitter.com/rothgar) loves open source almost as much as he loves community. He is not a fan of buzz words but searches for the patterns and benefits behind technology trends. He frequently shares his findings and tries to disseminate knowledge through practical lessons and unique examples. He is an active member in many communities and constantly questions the status quo. He is relentless in trying to learn new things and giving back to the communities who have taught him so much.

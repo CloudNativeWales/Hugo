@@ -55,7 +55,7 @@ The book finishes with guidance on getting started with Docker in your own proje
 
 ### Elton Stoneman
 
-![Elton Stoneman](/content/images/2018/05/EltonStoneman.jpeg)
+![Elton Stoneman](/images/2018/05/EltonStoneman.jpeg)
 
 Elton Stoneman has been a Microsoft MVP for 8 years and a Pluralsight author for 5 years, and now he works for Docker, Inc. Before joining Docker, he spent 15 years as a consultant, architecting and delivering very large and very successful solutions built on .NET and powered by Windows and Azure.
 
