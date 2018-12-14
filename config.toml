@@ -1,4 +1,31 @@
+title = "CloudNativeWales"
+description= "Everything Cloud Native"
 baseURL = "https://cloudnativewales.io/"
 languageCode = "en-gb"
-title = "CloudNativeWales"
 theme = "ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 9
+googleAnalytics = "UA-33113860-1"
+disqusShortname = "cloudnativewales"
+enableRobotsTXT = true
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = "favicon.ico"
+  title = ""
+  description = "CloudNativeWales Blog."
+  twitter = "https://twitter.com/cloudnativewal"
+  instagram = "https://www.instagram.com/cloudnativewales/"
+  github = "https://github.com/cloudnativewales"
+  background_color_class = "bg-moon-grey"
+  featured_image = "images/landing/landing00.jpeg"
+  recent_posts_number = 9
+  show_reading_time = true
