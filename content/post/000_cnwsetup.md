@@ -7,7 +7,7 @@ categories:
 date: 2018-05-17T07:30:00Z
 description: ""
 draft: false
-image: /images/2018/05/000_CNWSETUP_SALMANLEWIS_SQUARE.jpg
+featured_image: images/2018/05/000_CNWSETUP_SALMANLEWIS_SQUARE.jpg
 slug: 000_cnwsetup
 tags:
 - setup

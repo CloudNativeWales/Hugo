@@ -9,7 +9,7 @@ date: 2018-05-17T17:53:00Z
 description: Join us as we read through Elton Stoneman's book about how to get a .net
   monolith into Docker, and then updating the application to Cloud Native standards.
 draft: false
-image: /images/2018/05/B05316-4.png
+featured_image: images/2018/05/B05316-4.png
 slug: dockeronwindows
 tags:
 - book club

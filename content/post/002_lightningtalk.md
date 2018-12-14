@@ -9,7 +9,7 @@ date: 2018-05-22T06:57:59Z
 description: 'We presented a lightning talk at the Swansea Software Development Meetup
   (SSDM) introducing the Cloud Native Wales (CNW) Book Club.  Watch the talk here! '
 draft: false
-image: /images/2018/05/Cloud_Native_Wales_Colour_1_CMYK-9.jpg
+featured_image: images/2018/05/Cloud_Native_Wales_Colour_1_CMYK-9.jpg
 slug: 002_lightningtalk
 tags:
 - meetup
