@@ -1,6 +1,6 @@
 title = "CloudNativeWales"
 description= "Everything Cloud Native"
-baseURL = "https://cloudnativewales.io/"
+baseURL = "https://cloudnativewales.netlify.com"
 languageCode = "en-gb"
 theme = "ananke"
 
@@ -8,7 +8,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 9
-googleAnalytics = "UA-33113860-1"
+googleAnalytics = ""
 disqusShortname = "cloudnativewales"
 enableRobotsTXT = true
 
