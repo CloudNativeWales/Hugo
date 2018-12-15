@@ -28,3 +28,6 @@ HUGO_VERSION = "0.52"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+http://blog.cloudnativewales.io/* http://cloudnativewales.io/:splat 301!
+http://cloudnativewales.netlify.com/* http://cloudnativewales.io/:splat 301!
