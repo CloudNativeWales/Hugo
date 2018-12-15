@@ -1,0 +1,5 @@
+edirect domain aliases to primary domain
+http://blog.cloudnativewales.io/* http://cloudnativewales.io/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+http://cloudnativewales.netlify.com/* http://cloudnativewales.io/:splat 301!
