@@ -16,7 +16,10 @@ title: 014_MarchMeetup.md
 
 # OUR ELEVENTH MEETUP
 
-Thursday, March 14th, 6pm at DevOpsGroup offices, Cardiff.
+> Thursday, March 14th, 6pm at DevOpsGroup offices, Cardiff.
+
+* [Meetup Page](https://www.meetup.com/Cloud-Native-Wales/events/lxwbppyzfbsb/)
+* [Livestream](https://youtu.be/5c8gB1U3YPA)
 
 ## Sponsors
 
