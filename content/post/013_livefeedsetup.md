@@ -1,7 +1,7 @@
 ---
 author: Lewis Denham-Parry
-date: 2018-08-28T15:38:08Z
-description: ""
+date: 2019-03-13T12:00:00Z
+description: "The one when we tried to figure out how to live stream our meetup"
 draft: false
 featured_image: /images/posts/livefeedsetup/setup.jpg
 slug: 013_livefeedsetup
