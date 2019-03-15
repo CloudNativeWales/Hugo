@@ -3,6 +3,7 @@ author: Lewis Denham-Parry
 date: 2018-08-28T15:38:08Z
 description: ""
 draft: false
+featured_image: /images/posts/livefeedsetup/setup.jpg
 slug: 013_livefeedsetup
 title: 013_LivefeedSetup.md
 ---
@@ -25,11 +26,39 @@ But we also want to make sure that if you can't make the meetup (whether that's 
 From our first meetup we share swag that we've picked up from conferences.  If you have stickers, people will come.
 Since then, we've been able to raffle off conference tickets which encourages people to turn up for a chance of winning.
 
-## Livestream setup.
+## Livestream setup
 
 We're going to be using YouTube to stream the event.   Here's a list of software/hardware that we'll be using to get it all to work:
 
-* (OBS)[https://obsproject.com]
-* Macbook Pro (2017 model)
-* (Razor Kiyo webcam)[https://www.razer.com/gb-en/gaming-broadcaster/razer-kiyo]
-* (Blue Yeti microphone)[https://www.bluedesigns.com/products/yeti/]
+* [OBS](https://obsproject.com)
+* MacBook Pro (2017 model)
+* [Razor Kiyo webcam](https://www.razer.com/gb-en/gaming-broadcaster/razer-kiyo)
+* [Blue Yeti microphone](https://www.bluedesigns.com/products/yeti/)
+
+I've practised this 4 times at home with a private stream and all worked ok, now it's time to try it out live.
+
+## First attempt
+
+So this was our setup:
+
+![Our Setup](/images/posts/livefeedsetup/setup.jpg)
+
+All was going well until I received warnings about the encoding.
+There was nothing I could do during the first talk as I'd have to stop the stream to change the settings.
+Might need to look at running tests at the venue to confirm connection speeds in the future.
+The second talk I reduced the quality but had a better consistency.
+
+## Flying Blind
+
+When the feed was on, I planned to connect to the stream on my phone to confirm audio quality levels.
+Due to the encoding issue, the live stream was stuttering to begin with.
+When I was attempting to connect to the stream, I just had a spinning logo.
+Also, there's about a 20-30 second delay, which is obvious now but was a surprise to me the first time it happened.
+By the second talk, it was working fine and the audio levels were great.
+
+## The Video
+
+So here it is, I've set it to the second talk.
+Any feedback is welcome, if I remember any other notes from the video I'll update the post accordingly.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5c8gB1U3YPA?start=2638" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
