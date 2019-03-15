@@ -7,9 +7,9 @@ categories:
 - stig telfer
 - cardiff
 date: 2019-03-14T18:30:00Z
-description: The one when we learned about Serverless ways to manage ai and OpenStack and supercomputers, and when we live streamed for the first time...
-draft: true
-featured_image: /images/2018/05/001_MEETUP_PROFILE.jpg
+description: The one when we learned about Serverless ways to manage ai and OpenStack and SuperComputers, and when we live streamed for the first time...
+draft: false
+featured_image: /images/2019/03/header.png
 slug: 014_marchmeetup
 title: 014_MarchMeetup.md
 ---
