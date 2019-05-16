@@ -42,7 +42,15 @@ Thanks also to [DevOpsGroup](https://twitter.com/DevOpsGroup), [Yolk Recruitment
 
 ### Louise Harris ([@louiseharris33](https://twitter.com/louiseharris33))
 
+Louise Harris, founder and director of [Tramshed Tech](https://www.tramshedtech.co.uk/) and [Big Learning Company](https://www.biglearningcompany.com/) spoke about new digital apprenticeships that are available for free. They are: 
 
+* Digital Application Support Level 3
+* Digital Learning Design Level 3
+* Social Media & Digital Marketing Level 3
+* Information Security Level 3
+* Data Analytics Level 4
+
+Keep an eye out on [Big Learning Company](https://www.biglearningcompany.com/) for announcement soon!
 
 ### Julien Simon ([@julsimon](https://twitter.com/julsimon))
 
@@ -52,6 +60,8 @@ Thanks also to [DevOpsGroup](https://twitter.com/DevOpsGroup), [Yolk Recruitment
 
 ### James Strachan ([@jstrachan](https://twitter.com/jstrachan)) & James Rawlings ([@jdrawlings](https://twitter.com/jdrawlings))
 
+
+### Prizes
 
 ## Who is this for
 
