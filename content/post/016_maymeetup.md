@@ -69,23 +69,23 @@ Working yourself you would train the model on your machine and after you have te
 
 Scalability, high availability & security are now a must. You opt to scale out and implement all the good DevOps practices, Infrastructure as Code, Continuous Integration, Continuous Deployment etc. Julien presented the following three options: 
 
-1: _More Virtual Machines_
+1: _More Virtual Machines_  
 First option you have is *more* Virtual Machines. Good points: might give you the scaling. Not so good points: Infrastructure setup requires a lot of effort.
 
-2: _Docker Clusters_
+2: _Docker Clusters_  
 You can containerise your models using [Docker](https://www.docker.com/) and run them either on Elastic Container Service or Amazon Elastic Container Service for Kubernetes (Amazon EKS). Gives you options on scaling however it is still not fully managed so you will have to maintain the services. We then got to see a demo on ECS cluster that was running Tensorflow training and prediction.
 
-3: _SageMaker_
+3: _SageMaker_  
 [SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html) is AWS' fully managed machine learning service. This service allows data scientists to build & train ML models and deploy them to production ready fully managed servers at any scale. We got to see SageMaker in action. This solution requires no infrastructure with minimal setup effort for ML. 
 
-![Options Comparison](/images/2019/05/sagemakercomp.png)
+![Options Comparison](/content/images/2019/05/sagemakercomp.png)
 
 Julien concluded with his thoughts saying that you should implement a solution that works for your requirements and should not over-engineer it for the future.
 
 If you would like to learn more, head over to:
-https://aws.amazon.com/sagemaker 
-https://github.com/aws/sagemaker-python-sdk 
-https://github.com/awslabs/amazon-sagemaker-examples 
+https://aws.amazon.com/sagemaker  
+https://github.com/aws/sagemaker-python-sdk  
+https://github.com/awslabs/amazon-sagemaker-examples   
 
 ### Jack Kelly ([@06kellyjac](https://twitter.com/06kellyjac))
 
