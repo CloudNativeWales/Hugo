@@ -82,7 +82,7 @@ You can containerise your models using [Docker](https://www.docker.com/) and run
 
 Julien concluded with his thoughts saying that you should implement a solution that works for your requirements and should not over-engineer it for the future.
 
-If you would like to learn more, head over to:
+If you would like to learn more, head over to:  
 https://aws.amazon.com/sagemaker  
 https://github.com/aws/sagemaker-python-sdk  
 https://github.com/awslabs/amazon-sagemaker-examples   
