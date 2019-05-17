@@ -2,7 +2,7 @@
 author: Salman Iqbal
 categories:
 - meetup
-- devopsguys
+- devopsgroup
 - ai wales
 - aws south wales
 - cardiff
@@ -23,6 +23,7 @@ title: 016_MayMeetup.md
 
 * [Meetup Page](https://www.meetup.com/Cloud-Native-Wales/events/csxbwqyzhbmb/)
 * Video (Will be added soon)
+* Follow us on twitter [@CloudNativeWal](https://twitter.com/CloudNativeWal)
 
 # The Meetup
 
@@ -41,6 +42,7 @@ The organisers of [AI Wales](https://twitter.com/ai_wales) and [AWS South Wales 
 Thanks also to [DevOpsGroup](https://twitter.com/DevOpsGroup), [Yolk Recruitment](https://twitter.com/Yolk_Recruit), [Tramshed Tech](https://twitter.com/TramshedTech), [Artimus](https://twitter.com/ARTIMUS_UK) and [Mobilise.Cloud](https://twitter.com/MobiliseCloud) for sponsoring the evening.
 
 ### Louise Harris ([@louiseharris33](https://twitter.com/louiseharris33))
+#### Free Digital Apprenticeships in Cardiff
 
 Louise Harris, founder and director of [Tramshed Tech](https://www.tramshedtech.co.uk/) and [Big Learning Company](https://www.biglearningcompany.com/) spoke about new digital apprenticeships that are available for free. They are: 
 
@@ -63,7 +65,7 @@ If not, enter *ML*
 
 *One User*
 
-Working yourself you would train the model on your machine and after you have tested it you will end up deploying it on a Virtual Machine in the cloud. Good points: simple setup. Not so good points: does not scale, manual work, monolithic architecture. Julien then showed a demo of running an EC2 instance (AWS Virtual machine) with [AWS Deep Learning AMI](https://aws.amazon.com/machine-learning/amis/)
+Working yourself you would train the model on your machine and after you have tested it you will end up deploying it on a Virtual Machine in the cloud. Good points: simple setup. Not so good points: does not scale, manual work, monolithic architecture. Julien then showed a demo of running an EC2 instance (AWS Virtual machine) with [AWS Deep Learning AMI](https://aws.amazon.com/machine-learning/amis/).
 
 *More customers, more team members, more models*
 
@@ -88,6 +90,16 @@ https://github.com/aws/sagemaker-python-sdk
 https://github.com/awslabs/amazon-sagemaker-examples   
 
 ### Jack Kelly ([@06kellyjac](https://twitter.com/06kellyjac))
+#### Rust & a brand new [Meetup](https://www.meetup.com/rust-and-c-plus-plus-in-cardiff/) in Cardiff!
+
+Jack Kelly is a graduate engineer at [DevOpsGroup](https://twitter.com/DevOpsGroup). Jack gave a lightning talk on [Rust](https://www.rust-lang.org/). He spoke about its in increasing popularity in the tech community and highlighted a number of project on the [CNCF Landscape](https://landscape.cncf.io/) that are written in Rust. 
+
+Jack highlighted some of the features of the languages such as performance and reliability and how it compares to other languages. 
+
+Jack also announced the newly formed Rust & C++ Cardiff meetup! Head over to their [meetup page](https://www.meetup.com/rust-and-c-plus-plus-in-cardiff/), join and show them some love!
+
+![Rust C++ Meetup](/static/images/2019/05/rust.jpeg)
+
 
 ### James Strachan ([@jstrachan](https://twitter.com/jstrachan)) & James Rawlings ([@jdrawlings](https://twitter.com/jdrawlings))
 
