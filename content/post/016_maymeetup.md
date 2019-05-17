@@ -78,7 +78,7 @@ You can containerise your models using [Docker](https://www.docker.com/) and run
 3: _SageMaker_  
 [SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html) is AWS' fully managed machine learning service. This service allows data scientists to build & train ML models and deploy them to production ready fully managed servers at any scale. We got to see SageMaker in action. This solution requires no infrastructure with minimal setup effort for ML. 
 
-![Options Comparison](/content/images/2019/05/sagemakercomp.png)
+![Options Comparison](/static/images/2019/05/sagemakercomp.png)
 
 Julien concluded with his thoughts saying that you should implement a solution that works for your requirements and should not over-engineer it for the future.
 
