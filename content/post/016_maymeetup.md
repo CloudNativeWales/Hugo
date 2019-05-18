@@ -24,7 +24,6 @@ title: 016_MayMeetup.md
 * [Meetup Page](https://www.meetup.com/Cloud-Native-Wales/events/csxbwqyzhbmb/)
 * Video (Will be added soon)
 * Follow us on twitter [@CloudNativeWal](https://twitter.com/CloudNativeWal)
-* Join our [meetup page](https://www.meetup.com/Cloud-Native-Wales/)
 
 # The Meetup
 
@@ -160,7 +159,7 @@ We were able to give away the following prizes:
 - 2 JetBrains licenses, thanks to [JetBrains](https://www.jetbrains.com/)
 - Bottles of wine & gin, thanks to [Tramshed Tech](https://www.tramshedtech.co.uk/)
 
-We would like to thank JetBrains for their continued support. 
+We would like to thank [JetBrains](https://twitter.com/jetbrains) for their continued support. 
 We would also like to thank [Skills Matter](https://twitter.com/skillsmatter) for providing us with tickets to their awesome conferences for every one of our meetups. Special thanks to [Carla](https://twitter.com/CarlaAtSM), [Sam](https://twitter.com/SamSkillsMatter) & [Nicole](https://twitter.com/NicoleAtSM) from Skills Matter for their support! 
 
 ## Feedback / Content
