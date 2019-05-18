@@ -28,6 +28,7 @@ title: 016_MayMeetup.md
 # The Meetup
 
 For this epic meetup we joined forces with [AI Wales](https://twitter.com/ai_wales) and [AWS South Wales User Group](https://twitter.com/AWSSWalesUG). For the action packed evening we had:
+
 - [Louise Harris](https://twitter.com/louiseharris33)
 - [Julien Simon](https://twitter.com/julsimon)
 - [Jack Kelly](https://twitter.com/06kellyjac)
