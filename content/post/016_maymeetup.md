@@ -110,7 +110,7 @@ What is happening when you see two men, both named James, crossing their arms ov
 
 ![JenkinsX time](/images/2019/05/jamesx.jpeg)
 
-*That's right, it's [**Jenkins X**](https://jenkins-x.io/) time!*
+*That's right, it's [Jenkins X](https://jenkins-x.io/) time!*
 
 We were lucky to have [James Strachan]((https://twitter.com/jstrachan)) and [James Rawlings](https://twitter.com/jdrawlings)), co-creators of [*Jenkins X*](https://jenkins-x.io/). Jenkins X is a next generation native Continuous Integration/Continuous Deployment platform for Kubernetes. It should be noted that James Strachan is also the creator of [Apache Camel](https://camel.apache.org/) and [Apache Groovy](http://groovy-lang.org/). The latter language is most commonly dubbed as the *grooviest* language of them all!
 
