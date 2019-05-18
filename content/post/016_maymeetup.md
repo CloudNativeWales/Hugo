@@ -80,7 +80,7 @@ You can containerise your models using [Docker](https://www.docker.com/) and run
 3: _SageMaker_  
 [SageMaker](https://docs.aws.amazon.com/sagemaker/latest/dg/whatis.html) is AWS' fully managed machine learning service. This service allows data scientists to build & train ML models and deploy them to production ready fully managed servers at any scale. We got to see SageMaker in action. This solution requires no infrastructure with minimal setup effort for ML. 
 
-![Options Comparison](/static/images/2019/05/sagemakercomp.png)
+![Options Comparison](/images/2019/05/sagemakercomp.png)
 
 Julien concluded with his thoughts saying that you should implement a solution that works for your requirements and should not over-engineer it for the future.
 
@@ -100,14 +100,14 @@ Jack also announced the newly formed Rust & C++ Cardiff meetup! Head over to the
 
 Head over to Jack's [GitLab](https://gitlab.com/06kellyjac) & [GitHub](https://github.com/06kellyjac) repos to see the projects that he is working on. 
 
-![Rust C++ Meetup](/static/images/2019/05/rust.jpeg)
+![Rust C++ Meetup](/images/2019/05/rust.jpeg)
 
 
 ### James Strachan ([@jstrachan](https://twitter.com/jstrachan)) & James Rawlings ([@jdrawlings](https://twitter.com/jdrawlings))
 
 What is happening when you see two men, both named James, crossing their arms over their chests to make 'X' sign :no_good:
 
-![JenkinsX time](/static/images/2019/05/jamesx.jpeg)
+![JenkinsX time](/images/2019/05/jamesx.jpeg)
 
 *That's right, it's [**Jenkins X**](https://jenkins-x.io/) time!*
 
@@ -149,7 +149,7 @@ If you would like more information head over to the following links:
 
 And it seemed like that (pretty much) everyone caught the Jenkins X fever:
 
-![JenkinsX fever](/static/images/2019/05/jenkinsxfever.jpeg)
+![JenkinsX fever](/images/2019/05/jenkinsxfever.jpeg)
 
 ## Prizes
 
