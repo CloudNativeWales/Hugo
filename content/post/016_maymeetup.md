@@ -106,7 +106,7 @@ Head over to Jack's [GitLab](https://gitlab.com/06kellyjac) & [GitHub](https://g
 
 ### James Strachan ([@jstrachan](https://twitter.com/jstrachan)) & James Rawlings ([@jdrawlings](https://twitter.com/jdrawlings))
 
-What is happening when you see two men, both named James, crossing their arms over their chests to make 'X' sign :no_good:
+What is happening when you see two men, both named James, crossing their arms over their chests to make 'X' sign:
 
 ![JenkinsX time](/images/2019/05/jamesx.jpeg)
 
