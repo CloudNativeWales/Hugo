@@ -2,7 +2,7 @@
 author: Lewis Denham-Parry
 categories:
 - meetup
-- devopsguys
+- devopsgroup
 - anouska streets
 - david mckay
 - cardiff
@@ -19,11 +19,23 @@ title: 015_AprilMeetup.md
 > Thursday, April 11th, 6pm at DevOpsGroup offices, Cardiff.
 
 * [Meetup Page](https://www.meetup.com/Cloud-Native-Wales/events/jhtmtqyzgbpb/)
-* Livestream (Link will be added prior to the event)
+* Video recording on [Youtube](https://www.youtube.com/watch?v=iwo-HUnTRhk)
 
-# Welcome
+# Cloud Native Wales Anniversary
 
-We're Cloud Native Wales and we want to talk all things Cloud Native!
+A major milestone for us, this was out 12th meetup! We are super stoked to have come this far. We would not have done it without the support of community around us. Thanks to all of you who attend the meetup every month and encourage us to keep going and growing our community even more!
+
+A very special thanks to the speakers who take time out of their busy schedules and come to speak at our meetup. Educating us by sharing their knowledge and ideas to further our Cloud Native journey. We are indebted to the speakers for their efforts, entertaining and thought provoking talks!
+
+A massive thank you to [DevOpsGroup](https://www.devopsgroup.com/) who have been supporting us from the very beginning. They have provided us with the most stunning location for holding meetup in all of Cardiff! They also provide us with copious amounts of food and drinks throughout the evening! We also want to say thanks to all the DevOpsGroup employees who help us set-up and are on hand to help for every meetup. We really appreciate your help.
+
+Thanks to the rest of our sponsors too:
+
+- [Katacoda](https://katacoda.com/) - Interactive training platform
+- [Learnk8s](https://learnk8s.io/) - Speaker gifts
+- [Skills Matter](https://skillsmatter.com/) - Conference Tickets
+- [JetBrains](https://www.jetbrains.com/) - Prize Licenses
+- [Sticker Mule](https://www.stickermule.com/eu) - Sweet CNW stickers!
 
 ## Agenda
 
