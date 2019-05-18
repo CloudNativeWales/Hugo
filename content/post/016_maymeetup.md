@@ -28,10 +28,10 @@ title: 016_MayMeetup.md
 # The Meetup
 
 For this epic meetup we joined forces with [AI Wales](https://twitter.com/ai_wales) and [AWS South Wales User Group](https://twitter.com/AWSSWalesUG). For the action packed evening we had:
-* [Louise Harris](https://twitter.com/louiseharris33)
-* [Julien Simon](https://twitter.com/julsimon)
-* [Jack Kelly](https://twitter.com/06kellyjac)
-* [James Strachan](https://twitter.com/jstrachan) & [James Rawlings](https://twitter.com/jdrawlings)
+- [Louise Harris](https://twitter.com/louiseharris33)
+- [Julien Simon](https://twitter.com/julsimon)
+- [Jack Kelly](https://twitter.com/06kellyjac)
+- [James Strachan](https://twitter.com/jstrachan) & [James Rawlings](https://twitter.com/jdrawlings)
 
 # Acknowledgements
 
@@ -46,11 +46,11 @@ Thanks also to [DevOpsGroup](https://www.devopsgroup.com/), [Yolk Recruitment](h
 
 Louise Harris, founder and director of [Tramshed Tech](https://www.tramshedtech.co.uk/) and [Big Learning Company](https://www.biglearningcompany.com/) spoke about new digital apprenticeships that are available for free. They are: 
 
-* Digital Application Support Level 3
-* Digital Learning Design Level 3
-* Social Media & Digital Marketing Level 3
-* Information Security Level 3
-* Data Analytics Level 4
+- Digital Application Support Level 3
+- Digital Learning Design Level 3
+- Social Media & Digital Marketing Level 3
+- Information Security Level 3
+- Data Analytics Level 4
 
 Keep an eye out on [Big Learning Company](https://www.biglearningcompany.com/) for announcement soon!
 
