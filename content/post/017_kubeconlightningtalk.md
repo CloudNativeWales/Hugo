@@ -84,4 +84,4 @@ Lewis mentioned that by starting the community he's had more opportunities to gr
 
 As a closing remark, Lewis enforced the point that the tech landscape is changing all the time. The only thing that is always there for him and others is the community. He knows that when he needs help with a new technology/issue, he can reach out to the community who will be more than willing to help him and others!
 
-![Community](/images/2019/kubecon/wales.png)
+![Community](/images/2019/kubecon/wales.jpeg)
