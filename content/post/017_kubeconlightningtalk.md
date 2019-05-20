@@ -9,7 +9,7 @@ categories:
 - cardiff
 - lewis denham-parry
 date: 2019-05-20T17:00:00Z
-description: The one when where Lewis did a lightning talk about Cloud Native Wales...
+description: The one when where Lewis did a lightning talk about Cloud Native Wales at KubeCon...
 draft: false
 featured_image: /images/2019/kubecon/header.jpeg
 slug: 017_kubeconlightningtalk
