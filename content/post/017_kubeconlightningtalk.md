@@ -68,7 +68,7 @@ __3. Do it for the Community:__ Work with the people around you to help you grow
 
 ![Community](/images/2019/kubecon/help.png)
 
-_4. Treat others as you wanted to be treated: Always use a code of conduct at your meetup so it is welcoming to everyone. Check out Linux Foundation's [Code of Conduct](https://www.linuxfoundation.org/code-of-conduct/) as a starting point. 
+__4. Treat others as you wanted to be treated:__ Always use a code of conduct at your meetup so it is welcoming to everyone. Check out Linux Foundation's [Code of Conduct](https://www.linuxfoundation.org/code-of-conduct/) as a starting point. 
 
 ## Meetup Initiatives
 
