@@ -20,9 +20,9 @@ title: 017_KubeConLightningTalk.md
 
 > Monday, May 20th, 6pm at Fira Gran Via, Barcelona, Spain. 
 
-* [Talk Outline](https://www.meetup.com/Cloud-Native-Wales/events/csxbwqyzhbmb/)
-* [Talk Slides](https://speakerdeck.com/denhamparry/cloud-native-wales-how-we-contributed-to-the-community-with-no-code)
-* Video (Will be added soon)
+* [Outline](https://www.meetup.com/Cloud-Native-Wales/events/csxbwqyzhbmb/)
+* [Slides](https://speakerdeck.com/denhamparry/cloud-native-wales-how-we-contributed-to-the-community-with-no-code)
+* [Video](https://www.youtube.com/watch?v=4jEASYCaVDo)
 * Follow us on twitter [@CloudNativeWal](https://twitter.com/CloudNativeWal)
 * Follow Lewis on twitter [@denhamparry]((https://twitter.com/denhamparry))
 
