@@ -28,7 +28,7 @@ title: 017_KubeConLightningTalk.md
 
 # The Lightning Talk
 
-[Lewis Denham-Parry](https://twitter.com/denhamparry) talked about Cloud Native Wales at [KubeCon + CloudNativeCon EU 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/). The talk was titled, *Cloud Native Wales: Cloud Native Wales: How We Contributed to the Community with No Code*.
+[Lewis Denham-Parry](https://twitter.com/denhamparry) talked about Cloud Native Wales at [KubeCon + CloudNativeCon EU 2019](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/). The talk was titled, *Cloud Native Wales: How We Contributed to the Community with No Code*.
 
 ## Cloud Native Wales - The Origins
 
