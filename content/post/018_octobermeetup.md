@@ -18,6 +18,7 @@ title: 018_OctoberMeetup.md
 
 # OUR SEVENTEENTH MEETUP
 Authored by: [Mohammed Sohaib Nawaz](https://twitter.com/saibnawaz)
+  
 > Thursday, April 10th, 6pm at DevOpsGroup offices, Cardiff.
 
 ## Meetup Page
