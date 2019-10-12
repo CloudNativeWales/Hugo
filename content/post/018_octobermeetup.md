@@ -20,8 +20,8 @@ title: 018_OctoberMeetup.md
 
 > Thursday, April 10th, 6pm at DevOpsGroup offices, Cardiff.
 
-##Meetup Page
-* [Meetup Page](https://cloudnativewales.io/post/015_aprilmeetup/)
+## Meetup Page
+* [Cloud Native Wales](https://cloudnativewales.io/post/015_aprilmeetup/)
 
 ## Meetup Details
 ### Sponsors
@@ -97,6 +97,7 @@ As always, thanks to [DevOpsGroup](https://www.devopsgroup.com/), food and drink
 
 ## Feedback / Content
 Please contact either of the organisers if you want to:
+
 * Give a talk
 * Get more information regarding the Meetup
 * Talk about sponsorship
