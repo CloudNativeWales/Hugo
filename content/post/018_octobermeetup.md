@@ -16,10 +16,11 @@ slug: 018_octobermeetup
 title: 018_OctoberMeetup.md
 ---
 
-# OUR SEVENTEENTH MEETUP  
-  
-> Thursday, April 10th, 6pm at DevOpsGroup offices, Cardiff.  
-  
+# OUR SEVENTEENTH MEETUP
+
+> Thursday, April 10th, 6pm at DevOpsGroup offices, Cardiff.
+
+##Meetup Page
 * [Meetup Page](https://cloudnativewales.io/post/015_aprilmeetup/)
 
 ## Meetup Details
@@ -42,7 +43,8 @@ Rootless container image builds (as distinct from rootless runtimes) have crept 
 
 With a slew of new rootless tooling emerging including Red Hat’s buildah, Google’s Kaniko, and Uber’s Makisu, will we see build systems that can securely build untrusted Dockerfiles? How are traditional build and packaging requirements like reproducibility or hermetic isolation being approached? 
 
-In this talk Andrew informs us on: 
+In this talk Andrew informs us on:
+
 * Container image build security
 * Rootlessness, reproducibility, and hermeticism
 * Attack and defence for an OCI image build
