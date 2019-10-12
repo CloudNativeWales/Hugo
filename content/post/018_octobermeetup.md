@@ -17,20 +17,20 @@ title: 018_OctoberMeetup.md
 ---
 
 # OUR SEVENTEENTH MEETUP
-
+Authored by: [Mohammed Sohaib Nawaz](https://twitter.com/saibnawaz)
 > Thursday, April 10th, 6pm at DevOpsGroup offices, Cardiff.
 
 ## Meetup Page
-* [Cloud Native Wales](https://cloudnativewales.io/post/015_aprilmeetup/)
+* [Cloud Native Wales](https://www.meetup.com/cloudnativewales/)
 
 ## Meetup Details
 ### Sponsors
-* DevOpsGroup
-* KataKoda
-* LearnK8S
-* Jetbrains
-* SkillsMatter
-* Cloud Native Computing Foundation
+* [DevOpsGroup](https://www.devopsgroup.com/)
+* [KataKoda](https://www.katacoda.com)
+* [LearnK8S](https://learnk8s.io/)
+* [Jetbrains](https://www.jetbrains.com/)
+* [SkillsMatter](https://skillsmatter.com/)
+* [Cloud Native Computing Foundation](https://www.cncf.io/)
 
 # Acknowledgements
 
