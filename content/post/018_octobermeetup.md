@@ -53,8 +53,8 @@ In this talk Andrew informs us on:
 * [Slides](https://drive.google.com/file/d/1xUDrcWmB3a_5ocFi3TMxeIJuqf6vtXZN/view)
 * [Andrew's Twitter](https://twitter.com/sublimino)
 * [Andrew's Talk @ KubeCon + CloudNativeCon Europe 2019](https://www.youtube.com/watch?v=X_Sb96EKFPA)
-*[Trusting Trust](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
-*[Reproducible Builds Project](https://reproducible-builds.org/)
+* [Trusting Trust](https://www.archive.ece.cmu.edu/~ganger/712.fall02/papers/p761-thompson.pdf)
+* [Reproducible Builds Project](https://reproducible-builds.org/)
 
 
 
@@ -99,4 +99,4 @@ Please contact either of the organisers if you want to:
 * Talk about sponsorship
 * Any other suggestions or support
 
-Please drop us a message on twitter [@CloudNativeWal](https://twitter.com/CloudNativeWal) or email us on info@cloudnativewales.io
+Please drop us a message on twitter [@CloudNativeWales](https://twitter.com/CloudNativeWal) or email us on info@cloudnativewales.io
