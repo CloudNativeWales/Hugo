@@ -63,8 +63,9 @@ In this talk Andrew informs us on:
 Coinciding with this fortnight's international action on the climate emergency, this talk offers a timely outline of some of the latest research being conducted into minimising the significant and growing, Carbon emissions resulting from our use of The Cloud.
 
 In this talk Aled informs us on:
- * A low carbon Kubernetes Scheduler
- * Weird and Wonderful Datacentre implementations
+
+* A low carbon Kubernetes Scheduler
+* Weird and Wonderful Datacentre implementations
     * Nerdalize
     * Microsoft Project Natick
 * The shortcomings of a Low Carbon Kubernetes Scheduler
