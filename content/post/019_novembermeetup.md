@@ -9,7 +9,7 @@ categories:
 date: 2019-11-14T09:00:00Z
 description: The one where we learnt about the state of Devops, and Kubernetes , Gitops and ... whatever
 draft: false
-featured_image: /images/2019/05/header.jpg
+featured_image: /images/2019/06/cover.jpg
 slug: 019_novembermeetup
 title: 019_NovemberMeetup.md
 ---
@@ -38,6 +38,9 @@ We would like you to support and help out our friends over at Skills Matter due 
 # Acknowledgements
 
 We have to say a massive thanks to [DevOpsGroup](https://www.devopsgroup.com/) for supporting us and helping us grow the Cloud Native Community in Wales for over a year! They have provided us with a stunning venue for our meetups. All the drinks and food provided by them also goes down well! Head over to their [careers page](https://www.devopsgroup.com/careers/) to check out exciting vacancies.
+
+![Excitement](/images/2019/06/excite.jpeg)
+*Palpable excitement in the room for what's to come*
 
 # Speakers
 ## [Dan Twining](https://twitter.com/dantwining)
