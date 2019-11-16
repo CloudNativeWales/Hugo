@@ -99,65 +99,65 @@ To summarise the devops report mentions that you are twice as likely to exceed o
 
 ## [Ivan Pedrazas](https://twitter.com/ipedrazas?s=20)
 ### Kubernetes , Gitops and ... Whatever
-Ivan covered the following:  
-* What, Why Kubernetes?
-* Should I use Kubernetes 
-* The talk was a mixture of best practices 
-* Architecture of Kubernetes (APIs)
-* Application Development
-* Sarcasm 
- 
-What is Kubernetes?
-The way Kubernetes was explained was by explaining API (Application Program Interface) & RESTful API which is all about moving state from location A to location B whereas Kubernetes is all about moving objects. 
-Kubernetes is a container orchestrator. Kubernetes contains three sections 
-1.	API
-2.	State
-3.	Compute
- 
-Why would you use Kubernetes over other orchestration tools?  
-* Clear interfaces
-* Clear primitive's
-* Control pattern 
-* UNIX pattern dashboard
-* A complete tool with additional features. 
- 
-Above/Under API?
-* Within Container everything happens our applications, scripts
-* The application defines the stateful set here.
-* We have a persistent volume claim and a persistent volume
-* Before we never had persistent volume claims we just had pods and volumes
-* Now we have an object in between to-do certain things.
-* Above would be considered as Dev (YAML)
-* Under as Ops (BASH)
- 
- 
+Ivan covered the following:   
+* What, Why Kubernetes?  
+* Should I use Kubernetes  
+* The talk was a mixture of best practices  
+* Architecture of Kubernetes (APIs)  
+* Application Development  
+* Sarcasm  
+  
+What is Kubernetes?  
+The way Kubernetes was explained was by explaining API (Application Program Interface) & RESTful API which is all about moving state from location A to location B whereas Kubernetes is all about moving objects.  
+Kubernetes is a container orchestrator. Kubernetes contains three sections  
+1.	API  
+2.	State  
+3.	Compute  
+  
+Why would you use Kubernetes over other orchestration tools?   
+* Clear interfaces  
+* Clear primitive's  
+* Control pattern  
+* UNIX pattern dashboard  
+* A complete tool with additional features.  
+  
+Above/Under API?  
+* Within Container everything happens our applications, scripts  
+* The application defines the stateful set here.  
+* We have a persistent volume claim and a persistent volume  
+* Before we never had persistent volume claims we just had pods and volumes  
+* Now we have an object in between to-do certain things.  
+* Above would be considered as Dev (YAML)  
+* Under as Ops (BASH)  
+  
+  
 The important thing is to understand the separation of concerns  
-POD (What we run)<-- ReplicaSet (How many instances)<-- Deployment (How to update the instances)
-
+POD (What we run)<-- ReplicaSet (How many instances)<-- Deployment (How to update the instances)  
+  
 One important thing Ivan mentioned was that you need to know how to upgrade your Kubernetes Cluster, you need to have a plan. Don’t rely on tools to upgrade your Cluster kubernetes such as GKE (Google Kubernetes Engine).  
-
+  
 What is GitOps?  
-* Operations by pull request   
+* Operations by pull request  
 * Everything has to change by pull request  
- 
+  
 Why is GitOps Important & Why should you use it?  
-* Declaring all state of world in Git for everyone to see
-* If someone changes, we all know
-* GitOps makes your workflow far more efficient
-* GitOps makes passing SOC 2 compliance far more cost-efficient
-* Increased Productivity with CD automation
-* Audit log of all changes
-* Revert/rollback features
-* Consistency and standardisation of end-to-end workflows
- 
+* Declaring all state of world in Git for everyone to see  
+* If someone changes, we all know  
+* GitOps makes your workflow far more efficient  
+* GitOps makes passing SOC 2 compliance far more cost-efficient  
+* Increased Productivity with CD automation  
+* Audit log of all changes  
+* Revert/rollback features  
+* Consistency and standardisation of end-to-end workflows  
+  
 Challenges GitOps:  
 1.	People will push back:  
-* Developer
-* CAB members
-* Approvers
+* Developer  
+* CAB members  
+* Approvers  
 2.	Processes have to be :
-* Implemented 
-* Automated
+* Implemented  
+* Automated  
 
 
 ### Links:
