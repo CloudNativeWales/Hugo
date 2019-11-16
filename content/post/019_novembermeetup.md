@@ -50,7 +50,8 @@ DevOps has taken hold in IT. A growing number of organisations are adopting DevO
 To move forward in the DevOps journey, companies first should outline, identify and map the areas where they need improvement. Having a clear idea of maturity of your current IT infrastructure will help you greatly in that process. This is why we have the state of devops report.
  
 Why the state of devops report matters?
-Accelerate State of DevOps Report 2019 is out like every other year. The findings in the 2019 report outlines that higher performing teams were 24 times more likely than lower performers to execute all five capabilities of cloud computing  
+Accelerate State of DevOps Report 2019 is out like every other year. The findings in the 2019 report outlines that higher performing teams were 24 times more likely than lower performers to execute all five capabilities of cloud computing:
+
 * On demand self-service  
 * Broad network access  
 * Resource pooling  
