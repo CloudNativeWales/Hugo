@@ -3,8 +3,6 @@ author: Mohammed Sohaib Nawaz
 categories:
 - meetup
 - devopsgroup
-- ai wales
-- aws south wales
 - cardiff
 - Ivan Pedrazas
 - Dan Twining
@@ -32,8 +30,8 @@ We would like you to support and help out our friends over at Skills Matter due 
 ### Sponsors
 
 * [DevOpsGroup](https://www.devopsgroup.com/)
-* [KataKoda](https://www.katacoda.com)
-* [LearnK8S](https://learnk8s.io/)
+* [Katacoda](https://www.katacoda.com)
+* [learnk8s](https://learnk8s.io/)
 * [Jetbrains](https://www.jetbrains.com/)
 * [Cloud Native Computing Foundation](https://www.cncf.io/)
 
@@ -58,31 +56,36 @@ Accelerate State of DevOps Report 2019 is out like every other year. The finding
 * Rapid elasticity  
 * Measured service  
 
-In summary the report tells you:  
+In summary the report tells you:
+
 * how they manage,  
 * Secondly how they use metrics to classify low, medium, high and elite performers using the following metrics (Lead Time, Deployment Frequency, Change Fail, Time to Restore and Availability)  
 * Thirdly shows the differences in capabilities of cloud computing higher performers than lower performers  
 * Lastly it includes context around the benefits you gain from Devops.  
 
-During the talk Dan Twining gave an Analogy of Florence Nightingale of how she collected and analysed her findings:  
+During the talk Dan Twining gave an Analogy of Florence Nightingale :syringe: of how she collected and analysed her findings:
+
 * Establish disproportionally high mortality rate within British Army  
 * Establish disproportionally high incidence of hospital deaths within Army deaths  
 * Establish that hospital death rates due to "something destructive in the building itself"  
 * Identify causes of army hospital mortality  
 * Quantify the benefits of adopting better practises  
  
-Once Florence Nightingale had conducted her research she was able to find out the following:  
+Once Florence Nightingale had conducted her research she was able to find out the following:
+
 * What the business cares about but has no direct control over (mortality)  
 * Proof that doing things differently has a positive, significant effect on what the business cares about (destructive in the building  
 * What can be controlled, what can be done differently (causes of army hospital mortality)  
  
-Similarly in the devops report it includes:  
+Similarly in the devops report it includes:
+
 * Prove a high distribution of organisational performance across orgs of All sizes, locations, industry sectors  
 * Prove that high organisational performance can be predicted by "software delivery and operational performance (SDO)"  
-* Identify key capabilities and practises that drive SDO performance  
-* Quantify the benefits of adopting better practises  
+* Identify key capabilities and practices that drive SDO performance  
+* Quantify the benefits of adopting better practices  
  
 From the devops report  the following can be identified:  
+
 * What the business cares about but has no direct control over (organisational performance)  
 * Proof that doing things differently has a positive, significant effect on what the business cares about (SDO)  
 * What can be controlled, what can be done differently. (key capabilities and practises)  
@@ -102,22 +105,25 @@ To summarise the devops report mentions that you are twice as likely to exceed o
 
 ## [Ivan Pedrazas](https://twitter.com/ipedrazas?s=20)
 ### Kubernetes , Gitops and ... Whatever
-Ivan covered the following:   
+Ivan covered the following:
+
 * What, Why Kubernetes?  
 * Should I use Kubernetes  
 * The talk was a mixture of best practices  
 * Architecture of Kubernetes (APIs)  
 * Application Development  
-* Sarcasm  
+* Sarcasm :stuck_out_tongue_closed_eyes:
   
 What is Kubernetes?  
 The way Kubernetes was explained was by explaining API (Application Program Interface) & RESTful API which is all about moving state from location A to location B whereas Kubernetes is all about moving objects.  
-Kubernetes is a container orchestrator. Kubernetes contains three sections  
+Kubernetes is a container orchestrator. Kubernetes contains three sections:
+
 1.	API  
 2.	State  
 3.	Compute  
   
 Why would you use Kubernetes over other orchestration tools?   
+
 * Clear interfaces  
 * Clear primitive's  
 * Control pattern  
@@ -125,6 +131,7 @@ Why would you use Kubernetes over other orchestration tools?
 * A complete tool with additional features.  
   
 Above/Under API?  
+
 * Within Container everything happens our applications, scripts  
 * The application defines the stateful set here.  
 * We have a persistent volume claim and a persistent volume  
@@ -139,11 +146,13 @@ POD (What we run)<-- ReplicaSet (How many instances)<-- Deployment (How to updat
   
 One important thing Ivan mentioned was that you need to know how to upgrade your Kubernetes Cluster, you need to have a plan. Don’t rely on tools to upgrade your Cluster kubernetes such as GKE (Google Kubernetes Engine).  
   
-What is GitOps?  
+What is GitOps?
+
 * Operations by pull request  
 * Everything has to change by pull request  
   
-Why is GitOps Important & Why should you use it?  
+Why is GitOps Important & Why should you use it?
+
 * Declaring all state of world in Git for everyone to see  
 * If someone changes, we all know  
 * GitOps makes your workflow far more efficient  
@@ -154,16 +163,21 @@ Why is GitOps Important & Why should you use it?
 * Consistency and standardisation of end-to-end workflows  
   
 Challenges GitOps:  
-1.	People will push back:  
+
+1.	People will push back:
+
 * Developer  
 * CAB members  
 * Approvers  
-2.	Processes have to be :
+
+2.	Processes have to be:
+
 * Implemented  
 * Automated  
 
 
 ### Links:
+
 * [Ivan's Twitter](https://twitter.com/ipedrazas)
 * [Kubernetes , Gitops and ... Whatever - Slides](http://ceur-ws.org/Vol-2382/ICT4S2019_paper_28.pdf)
 * [Using Kubernetes - Video](https://www.youtube.com/watch?v=iJ67I4g5y2k&t=350s)
