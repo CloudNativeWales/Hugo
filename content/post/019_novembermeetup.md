@@ -25,10 +25,12 @@ Authored by: [Mohammed Sohaib Nawaz](https://twitter.com/saibnawaz), [Faiyaz Ala
 We would like you to support and help out our friends over at Skills Matter due to the extremely sad news that they have gone into administration by retweeting [this tweet](https://twitter.com/nicpereirahere/status/1194946341488726016).
 
 ## Meetup Page
+
 * [Cloud Native Wales](https://www.meetup.com/cloudnativewales/)
 
 ## Meetup Details
 ### Sponsors
+
 * [DevOpsGroup](https://www.devopsgroup.com/)
 * [KataKoda](https://www.katacoda.com)
 * [LearnK8S](https://learnk8s.io/)
