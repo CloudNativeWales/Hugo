@@ -22,6 +22,8 @@ Authored by: [Mohammed Sohaib Nawaz](https://twitter.com/saibnawaz), [Faiyaz Ala
 # We Need Your Help!
 We would like you to support and help out our friends over at Skills Matter due to the extremely sad news that they have gone into administration by retweeting [this tweet](https://twitter.com/nicpereirahere/status/1194946341488726016).
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Strange times-I find myself (in the midst of Q4)☕️in hand,combing jobs &amp; penning well deserved ref letters.Many talented <a href="https://twitter.com/skillsmatter?ref_src=twsrc%5Etfw">@skillsmatter</a> crew are lookin for a new 🏠.If we&#39;ve brought some light to ur community over the past few yrs,give us some ❤️, RT,help a gal &amp; her team out. 🙋🏽‍♀️ <a href="https://t.co/CgLzoy433U">pic.twitter.com/CgLzoy433U</a></p>&mdash; Nic Pereira 🇬🇧🇸🇬 (@nicpereirahere) <a href="https://twitter.com/nicpereirahere/status/1194946341488726016?ref_src=twsrc%5Etfw">November 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Meetup Page
 
 * [Cloud Native Wales](https://www.meetup.com/cloudnativewales/)
