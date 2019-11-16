@@ -49,40 +49,40 @@ To move forward in the DevOps journey, companies first should outline, identify 
  
 Why the state of devops report matters?
 Accelerate State of DevOps Report 2019 is out like every other year. The findings in the 2019 report outlines that higher performing teams were 24 times more likely than lower performers to execute all five capabilities of cloud computing  
-*  On demand self-service  
-*  Broad network access  
-*  Resource pooling  
-*  Rapid elasticity  
-*  Measured service  
+* On demand self-service  
+* Broad network access  
+* Resource pooling  
+* Rapid elasticity  
+* Measured service  
 
 In summary the report tells you:  
-*  how they manage,  
-*  Secondly how they use metrics to classify low, medium, high and elite performers using the following metrics (Lead Time, Deployment Frequency, Change Fail, Time to Restore and Availability)  
-*  Thirdly shows the differences in capabilities of cloud computing higher performers than lower performers  
-*  Lastly it includes context around the benefits you gain from Devops.  
+* how they manage,  
+* Secondly how they use metrics to classify low, medium, high and elite performers using the following metrics (Lead Time, Deployment Frequency, Change Fail, Time to Restore and Availability)  
+* Thirdly shows the differences in capabilities of cloud computing higher performers than lower performers  
+* Lastly it includes context around the benefits you gain from Devops.  
 
 During the talk Dan Twining gave an Analogy of Florence Nightingale of how she collected and analysed her findings:  
-*  Establish disproportionally high mortality rate within British Army  
-*  Establish disproportionally high incidence of hospital deaths within Army deaths  
-*  Establish that hospital death rates due to "something destructive in the building itself"  
-*  Identify causes of army hospital mortality  
-*  Quantify the benefits of adopting better practises  
+* Establish disproportionally high mortality rate within British Army  
+* Establish disproportionally high incidence of hospital deaths within Army deaths  
+* Establish that hospital death rates due to "something destructive in the building itself"  
+* Identify causes of army hospital mortality  
+* Quantify the benefits of adopting better practises  
  
 Once Florence Nightingale had conducted her research she was able to find out the following:  
-*  What the business cares about but has no direct control over (mortality)  
-*  Proof that doing things differently has a positive, significant effect on what the business cares about (destructive in the building  
-*  What can be controlled, what can be done differently (causes of army hospital mortality)  
+* What the business cares about but has no direct control over (mortality)  
+* Proof that doing things differently has a positive, significant effect on what the business cares about (destructive in the building  
+* What can be controlled, what can be done differently (causes of army hospital mortality)  
  
 Similarly in the devops report it includes:  
-*  Prove a high distribution of organisational performance across orgs of All sizes, locations, industry sectors  
-*  Prove that high organisational performance can be predicted by "software delivery and operational performance (SDO)"  
-*  Identify key capabilities and practises that drive SDO performance  
-*  Quantify the benefits of adopting better practises  
+* Prove a high distribution of organisational performance across orgs of All sizes, locations, industry sectors  
+* Prove that high organisational performance can be predicted by "software delivery and operational performance (SDO)"  
+* Identify key capabilities and practises that drive SDO performance  
+* Quantify the benefits of adopting better practises  
  
 From the devops report  the following can be identified:  
-*  What the business cares about but has no direct control over (organisational performance)  
-*  Proof that doing things differently has a positive, significant effect on what the business cares about (SDO)  
-*  What can be controlled, what can be done differently. (key capabilities and practises)  
+* What the business cares about but has no direct control over (organisational performance)  
+* Proof that doing things differently has a positive, significant effect on what the business cares about (SDO)  
+* What can be controlled, what can be done differently. (key capabilities and practises)  
  
  
 Summary  
