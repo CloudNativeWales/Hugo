@@ -184,6 +184,7 @@ Challenges GitOps:
 * [Ivan's Twitter](https://twitter.com/ipedrazas)
 * [Kubernetes , Gitops and ... Whatever - Slides](http://ceur-ws.org/Vol-2382/ICT4S2019_paper_28.pdf)
 * [Using Kubernetes - Video](https://www.youtube.com/watch?v=iJ67I4g5y2k&t=350s)
+* [Ivan's flossing masterclass](https://www.youtube.com/watch?v=FoKYX5e84B8)
 
 
 ## Who is this for
