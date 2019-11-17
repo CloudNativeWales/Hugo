@@ -41,6 +41,8 @@ We would like you to support and help out our friends over at Skills Matter due 
 
 We have to say a massive thanks to [DevOpsGroup](https://www.devopsgroup.com/) for supporting us and helping us grow the Cloud Native Community in Wales for over a year! They have provided us with a stunning venue for our meetups. All the drinks and food provided by them also goes down well! Head over to their [careers page](https://www.devopsgroup.com/careers/) to check out exciting vacancies.
 
+![Excitement](/images/2019/06/excite.jpeg)
+*Palpable excitement in the room for what's to come*
 
 # Speakers
 ## [Dan Twining](https://twitter.com/dantwining)
@@ -73,6 +75,8 @@ During the talk Dan Twining gave an Analogy of Florence Nightingale :syringe: of
 * Establish that hospital death rates due to "something destructive in the building itself"  
 * Identify causes of army hospital mortality  
 * Quantify the benefits of adopting better practises  
+
+![DanTheMan](/images/2019/06/dan2.jpeg)
  
 Once Florence Nightingale had conducted her research she was able to find out the following:
 
@@ -95,19 +99,27 @@ From the devops report  the following can be identified:
  
  
 Summary  
-To summarise the devops report mentions that you are twice as likely to exceed organisational performance goals as an Elite performer as compared to a low performer
-  
+To summarise the devops report mentions that you are twice as likely to exceed organisational performance goals as an Elite performer as compared to a low performer.
+
   
 ### Links:
 * [Slides](https://docs.google.com/presentation/d/1iRkIg-5ivvVL3USz09T04pEFjEawFXNlCh_vK7RiZqw/edit)
 * [The State of DevOps - Slides](https://cloud.google.com/devops/)
 * [Dan's Twitter](https://twitter.com/dantwining)
 
+![DanIsDone](/images/2019/06/dan.jpeg)
+
 <br />
 <br />
 
 ## [Ivan Pedrazas](https://twitter.com/ipedrazas?s=20)
 ### Kubernetes , Gitops and ... Whatever
+
+
+![Cake](/images/2019/06/cake.jpeg)
+*There will be cake*
+
+
 Ivan covered the following:
 
 * What, Why Kubernetes?  
@@ -132,6 +144,8 @@ Why would you use Kubernetes over other orchestration tools?
 * Control pattern  
 * UNIX pattern dashboard  
 * A complete tool with additional features.  
+
+![ProfIvan](/images/2019/06/ivan.jpeg)
   
 Above/Under API?  
 
@@ -150,6 +164,9 @@ POD (What we run)<-- ReplicaSet (How many instances)<-- Deployment (How to updat
 One important thing Ivan mentioned was that you need to know how to upgrade your Kubernetes Cluster, you need to have a plan. Don’t rely on tools to upgrade your Cluster kubernetes such as GKE (Google Kubernetes Engine).  
   
 What is GitOps?
+
+![GitCakeOps](/images/2019/06/gitops.jpeg)
+*Hand on heart, this is GitOps*
 
 * Operations by pull request  
 * Everything has to change by pull request  
@@ -170,7 +187,7 @@ Challenges GitOps:
 1.	People will push back:
 
 * Developer  
-* CAB members  
+* CAB members
 * Approvers  
 
 2.	Processes have to be:
