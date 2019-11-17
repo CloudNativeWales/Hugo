@@ -33,7 +33,7 @@ We would like you to support and help out our friends over at Skills Matter due 
 
 * [DevOpsGroup](https://www.devopsgroup.com/)
 * [Katacoda](https://www.katacoda.com)
-* [learnk8s](https://learnk8s.io/)
+* [learnk8s](https://learnk8s.io/) -> check out their [Kubernetes production best practices](https://learnk8s.io/production-best-practices/)
 * [Jetbrains](https://www.jetbrains.com/)
 * [Cloud Native Computing Foundation](https://www.cncf.io/)
 
