@@ -9,7 +9,7 @@ categories:
 date: 2019-11-14T09:00:00Z
 description: The one where we learnt about the state of Devops, and Kubernetes , Gitops and ... whatever
 draft: false
-featured_image: /images/2019/kubecon/header.jpeg
+featured_image: /images/2019/06/cover.jpeg
 slug: 019_novembermeetup
 title: 019_NovemberMeetup.md
 ---
