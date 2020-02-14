@@ -121,7 +121,7 @@ Matt covered the following:
 * KUDO Roadmap
 
 ![Command Line Magic](/images/2020/01/130220-6.jpeg)
-*Zookeeper and Kafka in 2 commands*
+*Zookeeper and Kafka in 2 commands - some sorcery*
 
 Kubernetes Operators are the next phase of the journey towards automating complex applications in containers. The Kudo project introduces an easy way to build Kubernetes operators using declarative YAML. Many Operators that exist today handle initial deployment, but they don’t provide automation for tasks like binary upgrades, configuration updates, and failure recovery.
 
