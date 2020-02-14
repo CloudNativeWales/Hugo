@@ -65,6 +65,7 @@ Mentorship Program!
 Get in touch with [Lewis](https://twitter.com/denhamparry) for more information, if you are interested in being a mentor or getting mentored.
 
 #### 2020 More Non-Technical Talks!
+We want to start incorporating more non-technical training talks into our events.
 
 #### Book Club!
 Another one to get in touch with [Lewis](https://twitter.com/denhamparry) for:
