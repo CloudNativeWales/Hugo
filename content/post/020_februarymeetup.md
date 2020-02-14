@@ -45,7 +45,7 @@ We have to say a massive thanks to [DevOpsGroup](https://www.devopsgroup.com/) f
 ## [Lewis](https://twitter.com/dantwining)
 ### 2020 Kick Off Announcements 
 
-![You can his the excitement!](/images/2020/01/130220-3.jpeg)
+![You can feel his the excitement!](/images/2020/01/130220-3.jpeg)
 
 
 #### New Sponsor Alert!  
@@ -147,7 +147,7 @@ As always, thanks to [DevOpsGroup](https://www.devopsgroup.com/), food and drink
 
 ## Prizes
 - 1 Raspberry Pi 
-- 2 JetBrains license, thanks to [jetBrains](https://www.jetbrains.com/)
+- 4 JetBrains license, thanks to [jetBrains](https://www.jetbrains.com/)
 - Google swag for best questions  
 
 ## Feedback / Content
