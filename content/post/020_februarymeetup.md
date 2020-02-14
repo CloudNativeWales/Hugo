@@ -68,7 +68,7 @@ Get in touch with [Lewis](https://twitter.com/denhamparry) for more information,
 #### 2020 More Non-Technical Talks!
 We want to start incorporating more non-technical training talks into our events.
 
-#### Book Club!
+#### Book Club!
 Another one to get in touch with [Lewis](https://twitter.com/denhamparry) for:
 
 * Currently on chapter 2 of Lost connections  
