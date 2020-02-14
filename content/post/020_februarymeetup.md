@@ -38,7 +38,7 @@ Authored by: [Mohammed Sohaib Nawaz](https://twitter.com/saibnawaz)
 We have to say a massive thanks to [DevOpsGroup](https://www.devopsgroup.com/) for supporting us and helping us grow the Cloud Native Community in Wales for over a year! They have provided us with a stunning venue for our meetups. All the drinks and food provided by them also goes down well! Head over to their [careers page](https://www.devopsgroup.com/careers/) to check out exciting vacancies.
 
 ![Excitement](/images/2020/01/130220-2.jpeg)
-*Palpable excitement in the room for what's to come*
+*The excitement in the room is brewing*
 
 # Speakers
 
@@ -46,7 +46,7 @@ We have to say a massive thanks to [DevOpsGroup](https://www.devopsgroup.com/) f
 ### 2020 Kick Off Announcements 
 
 ![You can feel his the excitement!](/images/2020/01/130220-3.jpeg)
-
+*You can feel his the excitement!*
 
 #### New Sponsor Alert!  
 [Currencycloud](https://www.currencycloud.com/) are a cloud-based platform that removes the complexity from international transactions, giving you clarity and control over your business so you can focus on the things that matter: your customers. With enterprise-class solutions for clients and partners such as Visa and Starling Bank, Currencycloud understands your needs and can help with market-leading products. 
