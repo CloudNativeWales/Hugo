@@ -9,7 +9,7 @@ categories:
 date: 2019-02-13T09:00:00Z
 description: 2020 Kick Off - What do you do after a serverless conference? Attended a meetup of course!
 draft: false
-featured_image: /images/2020/01/cover-130220.jpeg
+featured_image: /images/2020/01/cover-130220.jpg
 slug: 020_februarymeetup
 title: 020_februarymeetup.md
 ---
