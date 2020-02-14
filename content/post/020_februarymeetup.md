@@ -55,8 +55,8 @@ We have to say a massive thanks to [DevOpsGroup](https://www.devopsgroup.com/) f
 
 #### Congratulations Lewis! 
 Let's all congratulate [Lewis](https://twitter.com/denhamparry) on big life changes:
-* Becoming a parent for the second time!  
-* Exciting new opportunity at [Control Plane](https://control-plane.io/)  
+ * Becoming a parent for the second time!  
+ * Exciting new opportunity at [Control Plane](https://control-plane.io/)  
 
 #### Meetup of Meetups!
 Get in touch with anyone from Cloud Native Wales on how to get involved in improving the tech community in Wales.
