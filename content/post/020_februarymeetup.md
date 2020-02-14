@@ -55,8 +55,9 @@ We have to say a massive thanks to [DevOpsGroup](https://www.devopsgroup.com/) f
 
 #### Congratulations Lewis! 
 Let's all congratulate [Lewis](https://twitter.com/denhamparry) on big life changes:
- * Becoming a parent for the second time!  
- * Exciting new opportunity at [Control Plane](https://control-plane.io/)  
+
+* Becoming a parent for the second time!  
+* Exciting new opportunity at [Control Plane](https://control-plane.io/)  
 
 #### Meetup of Meetups!
 Get in touch with anyone from Cloud Native Wales on how to get involved in improving the tech community in Wales.
@@ -69,6 +70,7 @@ We want to start incorporating more non-technical training talks into our events
 
 #### Book Club!
 Another one to get in touch with [Lewis](https://twitter.com/denhamparry) for:
+
 * Currently on chapter 2 of Lost connections  
 * Read a chapter a week and discuss the chapter  
 * Join google hangouts with author
@@ -97,6 +99,7 @@ Matt Jarvis is Senior Director of Community and Evangelism at D2iQ. Matt has spe
 *What's a presentation without a meme*
 
 Matt covered the following:
+
 * Defining Stateless and Stateful Applications
 * Domain Specific Knowledge for managing stateful applications
 * Problem with StatefulSets
@@ -147,6 +150,7 @@ We aim to build a community for discussion and support and will welcome anyone t
 As always, thanks to [DevOpsGroup](https://www.devopsgroup.com/), food and drinks will be provided. If you have any special dietary requirements, please let us know.
 
 ## Prizes
+
 - 1 Raspberry Pi 
 - 4 JetBrains license, thanks to [jetBrains](https://www.jetbrains.com/)
 - Google swag for best questions  
