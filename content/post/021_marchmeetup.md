@@ -115,7 +115,7 @@ Another tip is to block out your non working hours so people know when not to bo
 This is something that not only requires self discipline but also your managers understanding as well. If the culture of the company is setup to support remote workers you shouldn't be left to feel that you need to be always available. Again we fall back to the outcomes over hours line. When talking to other you will probably find they don't accept a response to the 11pm slack message for example.
 
 #### Pro tip:
-For trailing remote working, setup a zoom room that is on all day and people can come and go as they please. I found this to be a great tip for remote workers, having a zoom room that is running all day that you can jump into and talk to your team mates, have informal discussion or just general conversations etc. GitLab has rooms that people can join to talk about specific subjects with other people throughout the day e.g. hobbies, family, travel, parents.
+For trialing remote working, setup a zoom room that is on all day and people can come and go as they please. I found this to be a great tip for remote workers, having a zoom room that is running all day that you can jump into and talk to your team mates, have informal discussion or just general conversations etc. GitLab has rooms that people can join to talk about specific subjects with other people throughout the day e.g. hobbies, family, travel, parents.
 
 GitLab practices asynchronous communication, so they don’t expect an instantaneous response, this allows a person to focus on their individual workflows. You can find out more about how they practice asynchronous communication across the company in the company [handbook](https://about.gitlab.com/handbook/communication/).
 
