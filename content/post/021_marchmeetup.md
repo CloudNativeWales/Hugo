@@ -9,7 +9,7 @@ categories:
 date: 2019-03-13T09:00:00Z
 description: Remote Meetup - The One Where COVID-19 Stole Our Pizza and Drinks
 draft: false
-featured_image: /images/2020/01/cover-130220.jpg
+featured_image: /images/2020/02/ES7SUHLXsAIKSEb.jpeg
 slug: 021_marchmeetup
 title: 021_marchmeetup.md
 ---
@@ -37,7 +37,7 @@ Authored by: [Mohammed Sohaib Nawaz](https://twitter.com/saibnawaz)
 
 We have to say a massive thanks to [DevOpsGroup](https://www.devopsgroup.com/) for supporting us and helping us grow the Cloud Native Community in Wales for over a year! They have provided us with a stunning venue for our meetups. All the drinks and food provided by them also goes down well! Head over to their [careers page](https://www.devopsgroup.com/careers/) to check out exciting vacancies.
 
-![Desks](/images/2020/01/130220-2.jpeg)
+![Desks](/images/2020/02/ES7SUHLXsAIKSEb.jpeg)
 *Even on short notice Lewis managed to pull it off*
 
 # Speakers
@@ -45,17 +45,14 @@ We have to say a massive thanks to [DevOpsGroup](https://www.devopsgroup.com/) f
 ## [Simon Mansfield](https://twitter.com/dantwining)
 ### Remote Working At GitLab, And Some Pro Tips
 
-![You can feel his the excitement!](/images/2020/01/130220-3.jpeg)
+![You can feel his the excitement!](/images/2020/02/ES75zgvXQA8Mgs5.jpeg)
 *We didn't even realise where the time went!*
 
 Lots of offices are closing and asking their staff to work remotely, this is a dream for some but chaos for others. We had an open discussion to pros and cons of working remotely and try to help each other make the best of the situation.
 
 Simon offered to help out and jump in last minute. Simon works for GitLab, a remote first organisation. He's based in Newport, works as a Solutions Architect for GitLab, and has been stood up by Lewis a couple of times over the last week.
 
-![Magician at work](/images/2020/01/130220-5.jpeg)
-*How do you talk about remote working .... remotely of course*
-
-Matt covered the following:
+Simon covered the following:
 
 * Who are GitLab
 * Their history
@@ -77,9 +74,6 @@ Matt covered the following:
 * Onboarding and biggest change
 * Work life balance at home
 * And a lot more which I will detail bellow
-
-![Command Line Magic](/images/2020/01/130220-6.jpeg)
-*Zookeeper and Kafka in 2 commands - some sorcery*
 
 GitLab was created by Dmitriy Zaporozhets and Valery Sizov, it has now become an integrated solution covering the software development life cycle, and then to the whole DevOps life cycle. GitLab is used by some of the largest tech companies in the world. Yet there is something very unique about the way in which GitLab operates as a company. GitLab operates a remote first company, with More than 2,000 people having contributed to GitLab. The GitLab team consists of 1225 team members and their 306+ pets. Currently they have team members in 67 countries and regions. You can learn more about their organisational structure, teams, and culture on some of the links bellow.
 
@@ -163,18 +157,11 @@ GitLab practices asynchronous communication, so they don’t expect an instantan
 ## [Lewis Denham-Parry](https://twitter.com/denhamparry)
 ### Anything Cloud Native
 
-
-![Quick Selfie](/images/2020/01/130220-4.jpeg)
-*Say cheese!*
-
 In this AMA we answered any questions that anyone had, from Cloud Native technologies to running the meetup, career advice to our favorite talks, how do you talk Cloud Native to your employer to best practices to working remotely.
 
 This, in part, was an open discussion and we asked for everyone's advice. Lewis works for Control Plane as a Infrastructure Engineer orchestrating the ocean of containers using Kubernetes. Day to day he's either writing code, building and pushing images and managing deployments, training others or on a train to his next adventure.
 
 He co-founded Cloud Native Wales, an initiative to help people learn Cloud Native technologies and establish a community to support each other. When he's not playing with tech, he's busy trying to understand the logic of a toddler, getting taken for a walk by a dog and spending time with his family (preferably on a ski slope).
-
-![Magician at work](/images/2020/01/130220-5.jpeg)
-*What's a presentation without a meme*
 
 #### Cloud Native Questions We Covered
 - Containers
