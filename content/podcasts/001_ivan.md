@@ -23,9 +23,6 @@ title: 001_IVAN.md
 
 ## The one where we agreed
 
- has been a key part of Cloud Native Wales from Day 1, from helping us put it together to speaking at the .
-In this episode we talk to Ivan about how he got started in the industry, GitOps, community and mentoring.
-
 [Ivan Pedrazas](https://twitter.com/ipedrazas) has been a key part of [Cloud Native Wales](https://cloudnativewales.io) from Day 1, from helping us put it together to speaking at the [November 2019 Meetup](https://cloudnativewales.io/post/019_novembermeetup/).
 
 In this episode we talk to Ivan about how he got started in the industry, his love of GitOps, being a part of the community and helping people start mentoring.
@@ -33,6 +30,8 @@ In this episode we talk to Ivan about how he got started in the industry, his lo
 Links to points discussed in the podcast can be found in the [CNW MVP Show Notes](https://cloudnativewales.io/podcasts/001_ivan/).
 
 If you'd like to take part in a future podcast, please complete [this form](https://forms.gle/FQPiz53ptBs8vovB8).
+
+![Kubernetes cat with Cake](/images/2020/03/001_ivan_cake.jpg)
 
 ## Podcast link
 
