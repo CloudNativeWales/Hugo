@@ -21,7 +21,10 @@ title: 001_IVAN.md
 
 # v0.0.1-Ivan
 
-*The one where we agreed*
+## The one where we agreed
+
+Ivan Pedrazas has been a key part of Cloud Native Wales from Day 1, from helping us put it together to speaking at the [November 2019 Meetup](https://cloudnativewales.io/post/019_novembermeetup/).
+In this episode we talk to Ivan about how he got started in the industry, GitOps, community and mentoring.
 
 ## Podcast link
 
