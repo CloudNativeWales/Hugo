@@ -19,8 +19,8 @@ title: 001_IVAN.md
 # Podcast Notes
 
 - Meetups
-  - Cloud Native Wales - http://cloudnativewales.io
-  - Rust and C++ meetup https://www.meetup.com/rust-and-c-plus-plus-in-cardiff/
+  - [Cloud Native Wales](http://cloudnativewales.io)
+  - [Rust and C++ meetup](https://www.meetup.com/rust-and-c-plus-plus-in-cardiff/)
   - Meetup of meetups
 - Hosts
   - [Lewis](https://twitter.com/denhamparry)
