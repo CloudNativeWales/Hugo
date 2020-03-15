@@ -29,7 +29,7 @@ aliases:
 
 In this episode we talk to Ivan about how he got started in the industry, his love of GitOps, being a part of the community and helping people start mentoring.
 
-Links to points discussed in the podcast can be found in the [CNW MVP Show Notes](https://cloudnativewales.io/podcasts/001_ivan/).
+Links to points discussed in the podcast can be found in the [CNW MVP Show Notes](https://cloudnativewales.io/podcasts/CNW_MVP_001_ivan001/).
 
 If you'd like to take part in a future podcast, please complete [this form](https://forms.gle/FQPiz53ptBs8vovB8).
 
