@@ -17,6 +17,9 @@ tags:
 - community
 - meetups
 title: 001_IVAN.md
+aliases = [
+    "/podcasts/001_ivan/"
+]
 ---
 
 # v0.0.1-Ivan
