@@ -6,7 +6,7 @@ date: 2020-03-15T00:00:00Z
 description: "Podcast notes for the Ivan Pedrazas episode"
 draft: false
 featured_image: /images/2020/03/001_ivan_cake.jpg
-slug: 001_ivan
+slug: /podcasts/001_ivan/
 tags:
 - cnwmvp
 - ivan pedrazas
