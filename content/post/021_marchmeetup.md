@@ -6,7 +6,7 @@ categories:
 - cardiff
 - Simon Mansfield
 
-date: 2019-03-13T09:00:00Z
+date: 2020-03-13T09:00:00Z
 description: Remote Meetup - The One Where COVID-19 Stole Our Pizza and Drinks
 draft: false
 featured_image: /images/2020/02/ES7SUHLXsAIKSEb.jpeg

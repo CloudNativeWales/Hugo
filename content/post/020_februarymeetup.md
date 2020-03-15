@@ -6,7 +6,7 @@ categories:
 - cardiff
 - Matt Jarvis
 
-date: 2019-02-13T09:00:00Z
+date: 2020-02-13T09:00:00Z
 description: 2020 Kick Off - What do you do after a serverless conference? Attended a meetup of course!
 draft: false
 featured_image: /images/2020/01/cover-130220.jpg
