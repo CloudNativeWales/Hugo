@@ -33,6 +33,8 @@ Links to points discussed in the podcast can be found in the [CNW MVP Show Notes
 
 If you'd like to take part in a future podcast, please complete [this form](https://forms.gle/FQPiz53ptBs8vovB8).
 
+Thanks to [memenetes](https://twitter.com/memenetes) for providing us with the cake art!
+
 ![Kubernetes cat with Cake](/images/2020/03/001_ivan_cake.jpg)
 
 ## Podcast link
