@@ -19,7 +19,39 @@ tags:
 title: 001_IVAN.md
 ---
 
-# Podcast Notes
+# v0.0.1-Ivan
+
+> The one where we agreed
+
+## Podcast link
+
+> Links where you can find the podcast
+
+- [Acast](https://acast.com)
+
+## Revisions
+
+| Date                   | Revision      |
+| ---------------------- |:-------------:|
+| Sunday 15th March 2020 | Created page  |
+
+## Equipment
+
+> What we used to record the podcast
+
+- [Google Hangout](https://hangouts.google.com/) - We setup a Hangout to get together
+- [GSuite](https://gsuite.google.co.uk) - Can record Google Hangouts and extract audio
+- [Audacity](https://www.audacityteam.org/) - Trim / Cut audio
+
+- Lewis
+  - [Blue Yeti](https://www.bluedesigns.com/products/yeti/)
+  - [Razer Kiyo](https://www.razer.com/gb-en/gaming-broadcaster/razer-kiyo)
+- Ivan
+  - [Airpod Pros](https://www.apple.com/uk/airpods-pro/)
+
+## Podcast References
+
+> Links to points discussed in the podcast
 
 - Meetups
   - [Cloud Native Wales](http://cloudnativewales.io)
@@ -46,8 +78,8 @@ title: 001_IVAN.md
   - [Kafka](https://kafka.apache.org/)
   - [London DevOps Meetup](https://www.meetup.com/London-DevOps/)
   - Tools don't solve problems
-    - [](https://hbr.org/2015/06/new-technology-wont-automatically-improve-your-operations)
-    - [](http://timkastelle.org/blog/2011/02/tools-dont-solve-problems-people-do/)
+    - [New technology won't automatically improve your operations](https://hbr.org/2015/06/new-technology-wont-automatically-improve-your-operations)
+    - [Tools don't solve problems, people do](http://timkastelle.org/blog/2011/02/tools-dont-solve-problems-people-do/)
   - [Jenkins](https://jenkins.io/)
   - [Concourse CI](https://docs.pivotal.io/p-concourse/v5/)
   - [WeaveWorks](https://www.weave.works)
@@ -67,9 +99,10 @@ title: 001_IVAN.md
   - [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
   - [Bookclub](https://cloudnativewales.io/bookclub/)
   - Mental Health
+    - [Lost Connections](https://thelostconnections.com/)
   - Add Any Useful Links
   - Ivan Blog
-    - I am sure he mentioned a blog post on Group Dynamics, but I couldn't find it
+    - Will add a link when he posts it :)
   - Serverless
     - [Kubeless](https://kubeless.io/)
     - [KNative](https://cloud.google.com/knative)
