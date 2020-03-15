@@ -1,14 +1,11 @@
 ---
 author: Lewis Denham-Parry
 categories:
-- book club
-- learning
-- wales
-date: 2018-05-16T15:08:34Z
-description: We connect with people throughout Wales to learn new technologies and
-  concepts followed with a Q&A with the Author.
+- podcasts
+date: 2020-03-15T00:00:00Z
+description: List of all Cloud Native Wales Minimum Viable Podcasts.
 draft: false
-slug: bookclub
+slug: podcasts
 tags:
 - book club
 - learning
