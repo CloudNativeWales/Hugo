@@ -25,7 +25,7 @@ aliases:
 
 ## The one where we agreed
 
-[Ivan Pedrazas](https://twitter.com/ipedrazas) has been a key part of [Cloud Native Wales](https://cloudnativewales.io) from Day 1, from helping us put it together to speaking at the [November 2019 Meetup](https://cloudnativewales.io/post/019_novembermeetup/).
+[Ivan Pedrazas](https://twitter.com/ipedrazas) has been a key part of [Cloud Native Wales](https://cloudnativewales.io) from Day 1 helping us put it together to speaking at the [November 2019 Meetup](https://cloudnativewales.io/post/019_novembermeetup/).
 
 In this episode we talk to Ivan about how he got started in the industry, his love of GitOps, being a part of the community and helping people start mentoring.
 
@@ -37,9 +37,11 @@ Thanks to [memenetes](https://twitter.com/memenetes) for providing us with the c
 
 ![Kubernetes cat with Cake](/images/2020/03/001_ivan_cake.jpg)
 
+As a wise Ivan said many a time, "I Agree".
+
 ## Podcast link
 
-- [Acast](https://acast.com)
+- [Acast](https://shows.acast.com/cnw/episodes/v001-ivan)
 
 ## Equipment
 
