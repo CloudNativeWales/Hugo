@@ -23,24 +23,19 @@ title: 001_IVAN.md
 
 ## The one where we agreed
 
-Ivan Pedrazas has been a key part of Cloud Native Wales from Day 1, from helping us put it together to speaking at the [November 2019 Meetup](https://cloudnativewales.io/post/019_novembermeetup/).
+[Ivan Pedrazas](https://twitter.com/ipedrazas) has been a key part of Cloud Native Wales from Day 1, from helping us put it together to speaking at the [November 2019 Meetup](https://cloudnativewales.io/post/019_novembermeetup/).
 In this episode we talk to Ivan about how he got started in the industry, GitOps, community and mentoring.
 
 ## Podcast link
 
 - [Acast](https://acast.com)
 
-## Revisions
-
-| Date                   | Revision      |
-| ---------------------- |:-------------:|
-| Sunday 15th March 2020 | Created page  |
-
 ## Equipment
 
 - [Google Hangout](https://hangouts.google.com/) - We setup a Hangout to get together
 - [GSuite](https://gsuite.google.co.uk) - Can record Google Hangouts and extract audio
 - [Audacity](https://www.audacityteam.org/) - Trim / Cut audio
+- [Acast](https://www.acast.com/) - Upload and distribute podcast
 
 - Lewis
   - [Blue Yeti](https://www.bluedesigns.com/products/yeti/)
@@ -141,3 +136,7 @@ In this episode we talk to Ivan about how he got started in the industry, GitOps
 ### Secret meetup
 
 - Impress Ivan and become his friend (buy him cake) or start your own
+
+## Revisions
+
+- Sunday 15th March 2020: Created page
