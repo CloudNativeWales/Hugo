@@ -5,7 +5,7 @@ categories:
 date: 2020-03-15T00:00:00Z
 description: "Podcast notes for the Ivan Pedrazas episode"
 draft: false
-featured_image: /images/2018/05/000_CNWSETUP_SALMANLEWIS_SQUARE.jpg
+featured_image: /images/2020/03/001_ivan_cake.jpg
 slug: 001_ivan
 tags:
 - cnwmvp
@@ -23,8 +23,16 @@ title: 001_IVAN.md
 
 ## The one where we agreed
 
-[Ivan Pedrazas](https://twitter.com/ipedrazas) has been a key part of Cloud Native Wales from Day 1, from helping us put it together to speaking at the [November 2019 Meetup](https://cloudnativewales.io/post/019_novembermeetup/).
+ has been a key part of Cloud Native Wales from Day 1, from helping us put it together to speaking at the .
 In this episode we talk to Ivan about how he got started in the industry, GitOps, community and mentoring.
+
+[Ivan Pedrazas](https://twitter.com/ipedrazas) has been a key part of [Cloud Native Wales](https://cloudnativewales.io) from Day 1, from helping us put it together to speaking at the [November 2019 Meetup](https://cloudnativewales.io/post/019_novembermeetup/).
+
+In this episode we talk to Ivan about how he got started in the industry, his love of GitOps, being a part of the community and helping people start mentoring.
+
+Links to points discussed in the podcast can be found in the [CNW MVP Show Notes](https://cloudnativewales.io/podcasts/001_ivan/).
+
+If you'd like to take part in a future podcast, please reach out to us here.
 
 ## Podcast link
 
@@ -112,6 +120,7 @@ In this episode we talk to Ivan about how he got started in the industry, GitOps
 
 ### Mentoring
 
+- [Menta]()
 - [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 - [Bookclub](https://cloudnativewales.io/bookclub/)
   
