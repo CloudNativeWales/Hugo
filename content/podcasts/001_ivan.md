@@ -104,16 +104,15 @@ If you'd like to take part in a future podcast, please complete [this form](http
 
 - [DevWales](https://devwales.com)
 
-### Community
-
-#### Ivan Agrees with Everyone
+### Ivan Agrees with Everyone
 
 - [Panel Discussion: GitOps & Best Practices for Cloud Native CI/CD](https://www.youtube.com/watch?v=uvbaxC1Dexc)
+
+### Community
 
 - [Control Plane](https://control-plane.io/)
 - [Andrew Martin](https://twitter.com/sublimino?lang=en)
 - [pyCon](https://pycon.org/)
-
 - [DevOpsDom](https://twitter.com/devopsdom)
 - [Meetup Meets](https://meetup-mates.com/)
 
