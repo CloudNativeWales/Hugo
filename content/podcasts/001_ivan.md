@@ -32,7 +32,7 @@ In this episode we talk to Ivan about how he got started in the industry, his lo
 
 Links to points discussed in the podcast can be found in the [CNW MVP Show Notes](https://cloudnativewales.io/podcasts/001_ivan/).
 
-If you'd like to take part in a future podcast, please reach out to us here.
+If you'd like to take part in a future podcast, please complete [this form](https://forms.gle/FQPiz53ptBs8vovB8).
 
 ## Podcast link
 
