@@ -17,9 +17,9 @@ tags:
 - community
 - meetups
 title: 001_IVAN.md
-aliases = [
-    "/podcasts/001_ivan/"
-]
+aliases:
+    - /podcasts/001_ivan/
+    - /post/022_ivan/
 ---
 
 # v0.0.1-Ivan
@@ -150,3 +150,5 @@ If you'd like to take part in a future podcast, please complete [this form](http
 ## Revisions
 
 - Sunday 15th March 2020: Created page
+
+![Kubernetes cat with Rainbow Cake](/images/2020/03/001_ivan_cake_rainbow.jpg)
