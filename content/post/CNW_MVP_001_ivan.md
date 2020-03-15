@@ -58,18 +58,29 @@ As a wise Ivan said many a time, "I Agree".
 
 ## References
 
-- Meetups
-  - [Cloud Native Wales](http://cloudnativewales.io)
-  - [Rust and C++ meetup](https://www.meetup.com/rust-and-c-plus-plus-in-cardiff/)
-  - [Kubernetes London](https://www.meetup.com/kubernetes-london/)
-- Hosts
-  - [Lewis](https://twitter.com/denhamparry)
-  - [Salman](https://twitter.com/SoulmanIqbal)
-  - [Daniel](https://twitter.com/plodtv)
-- Guest
-  - [Ivan Pedrazas](https://twitter.com/ipedrazas)
-- Sponsor
-  - [Dev Wales](https://devwales.com)
+### Meetups
+
+- [Cloud Native Wales](http://cloudnativewales.io)
+- [Rust and C++ meetup](https://www.meetup.com/rust-and-c-plus-plus-in-cardiff/)
+- [Kubernetes London](https://www.meetup.com/kubernetes-london/)
+
+### Mentoring
+
+- [Menta](https://join.slack.com/t/ismenta/shared_invite/zt-c7wdg9e9-oy1Yig6Kfe5mNYbn9mYjow)
+
+### Hosts
+
+- [Lewis](https://twitter.com/denhamparry)
+- [Salman](https://twitter.com/SoulmanIqbal)
+- [Daniel](https://twitter.com/plodtv)
+
+### Guest
+
+- [Ivan Pedrazas](https://twitter.com/ipedrazas)
+
+### Sponsor
+
+- [Dev Wales](https://devwales.com)
 
 ## Notes
 
@@ -124,7 +135,7 @@ As a wise Ivan said many a time, "I Agree".
 
 ### Mentoring
 
-- [Menta]()
+- [Menta](https://join.slack.com/t/ismenta/shared_invite/zt-c7wdg9e9-oy1Yig6Kfe5mNYbn9mYjow)
 - [Impostor Syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)
 - [Bookclub](https://cloudnativewales.io/bookclub/)
   
