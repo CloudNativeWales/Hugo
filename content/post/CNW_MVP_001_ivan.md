@@ -6,7 +6,7 @@ date: 2020-03-15T00:00:00Z
 description: "Podcast notes for the Ivan Pedrazas episode"
 draft: false
 featured_image: /images/2020/03/001_ivan_cake.jpg
-slug: /podcasts/001_ivan/
+slug: CNW_MVP_001_ivan/
 tags:
 - cnwmvp
 - ivan pedrazas
@@ -16,10 +16,9 @@ tags:
 - gitops
 - community
 - meetups
-title: 001_IVAN.md
+title: CNW_MVP_001_IVAN.md
 aliases:
-    - /podcasts/001_ivan/
-    - /post/022_ivan/
+    - /podcasts/CNW_MVP_001_ivan001/
 ---
 
 # v0.0.1-Ivan
