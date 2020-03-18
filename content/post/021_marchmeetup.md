@@ -23,12 +23,16 @@ Authored by: [Mohammed Sohaib Nawaz](https://twitter.com/saibnawaz)
 
 * [Cloud Native Wales](https://www.meetup.com/cloudnativewales/)
 
+## Meetup Recording
+
+* [Recording](https://www.youtube.com/watch?v=xQtbdXj9lGs)
+
 ## Meetup Details
 ### Sponsors
 
 * [DevOpsGroup](https://www.devopsgroup.com/)
 * [Katacoda](https://www.katacoda.com)
-* [learnk8s](https://learnk8s.io/) -> check out their [Kubernetes production best practices](https://learnk8s.io/production-best-practices/)
+* [learnk8s](https://learnk8s.io/)
 * [Jetbrains](https://www.jetbrains.com/)
 * [Cloud Native Computing Foundation](https://www.cncf.io/)
 * [Currencycloud](https://www.currencycloud.com/)
