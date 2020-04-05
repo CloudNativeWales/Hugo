@@ -29,7 +29,7 @@ aliases:
 
 In this episode we talk to Anouska about how she got started in the industry, her love of Cloud Native tech, being a part of the community and helping people around her grow.
 
-Links to points discussed in the podcast can be found in the [CNW MVP Show Notes](TBA).
+Links to points discussed in the podcast can be found in the [CNW MVP Show Notes](https://cloudnativewales.io//post/cnw_mvp_002_anouska/).
 
 If you'd like to take part in a future podcast, please complete [this form](https://forms.gle/FQPiz53ptBs8vovB8).
 
