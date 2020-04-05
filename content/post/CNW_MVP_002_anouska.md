@@ -25,7 +25,7 @@ aliases:
 
 ## The one where with the toughest question
 
-[Anouska Streets](https://twitter.com/AnouskaStreets) has been a key part of [Cloud Native Wales](https://cloudnativewales.io) from Day 1 supporting us and  to speaking at the [April 2019 Meetup](https://cloudnativewales.io/post/015_aprilmeetup/).
+We're so lucky to have the chance to speak to [Anouska Streets](https://twitter.com/AnouskaStreets), she has always supported [Cloud Native Wales](https://cloudnativewales.io) and has spoken at the [April 2019 Meetup](https://cloudnativewales.io/post/015_aprilmeetup/).
 
 In this episode we talk to Anouska about how she got started in the industry, her love of Cloud Native tech, being a part of the community and helping people around her grow.
 
