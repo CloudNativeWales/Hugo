@@ -81,3 +81,4 @@ The k8s cat with Anouska's favourite cake
 - [Cloud Foundry](https://www.cloudfoundry.org)
 - [State of the DevOps Report](https://puppet.com/resources/report/state-of-devops-report/)
 - [VMware Tanzu](https://cloud.vmware.com/tanzu)
+
