@@ -24,7 +24,7 @@ aliases:
 
 # v0.0.2-Anouska
 
-## The one where we agreed
+## The one where with the toughest question
 
 [Anouska Streets](https://twitter.com/AnouskaStreets) has been a key part of [Cloud Native Wales](https://cloudnativewales.io) from Day 1 supporting us and  to speaking at the [April 2019 Meetup](https://cloudnativewales.io/post/015_aprilmeetup/).
 
