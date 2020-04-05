@@ -36,7 +36,7 @@ If you'd like to take part in a future podcast, please complete [this form](http
 
 Thanks to [memenetes](https://twitter.com/memenetes) for providing us with the cake art!
 
-![Kubernetes cat with Cake](/images/2020/03/001_ivan_cake.jpg)
+![Kubernetes cat with Cake](/images/2020/04/002_nouska_cake.png)
 
 The k8s cat with Anouska's favourite cake
 
