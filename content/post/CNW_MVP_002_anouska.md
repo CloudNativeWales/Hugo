@@ -7,7 +7,6 @@ description: "Podcast notes for the Anouska Streets episode"
 draft: false
 featured_image: /images/2020/04/002_anouska_cake.png
 slug: CNW_MVP_002_anouska/
-draft: true
 tags:
 - cnwmvp
 - anouska streets
