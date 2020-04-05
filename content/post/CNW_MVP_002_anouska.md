@@ -7,7 +7,6 @@ description: "Podcast notes for the Anouska Streets episode"
 draft: false
 featured_image: /images/2020/04/002_anouska_cake.png
 slug: CNW_MVP_002_anouska/
-draft: true
 tags:
 - cnwmvp
 - anouska streets
@@ -30,13 +29,13 @@ aliases:
 
 In this episode we talk to Anouska about how she got started in the industry, her love of Cloud Native tech, being a part of the community and helping people around her grow.
 
-Links to points discussed in the podcast can be found in the [CNW MVP Show Notes](TBA).
+Links to points discussed in the podcast can be found in the [CNW MVP Show Notes](https://cloudnativewales.io//post/cnw_mvp_002_anouska/).
 
 If you'd like to take part in a future podcast, please complete [this form](https://forms.gle/FQPiz53ptBs8vovB8).
 
 Thanks to [memenetes](https://twitter.com/memenetes) for providing us with the cake art!
 
-![Kubernetes cat with Cake](/images/2020/04/002_nouska_cake.png)
+![Kubernetes cat with Cake](/images/2020/04/002_anouska_cake.png)
 
 The k8s cat with Anouska's favourite cake
 
@@ -81,3 +80,4 @@ The k8s cat with Anouska's favourite cake
 - [Cloud Foundry](https://www.cloudfoundry.org)
 - [State of the DevOps Report](https://puppet.com/resources/report/state-of-devops-report/)
 - [VMware Tanzu](https://cloud.vmware.com/tanzu)
+
