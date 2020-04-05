@@ -28,9 +28,9 @@ aliases:
 
 [Anouska Streets](https://twitter.com/AnouskaStreets) has been a key part of [Cloud Native Wales](https://cloudnativewales.io) from Day 1 supporting us and  to speaking at the [April 2019 Meetup](https://cloudnativewales.io/post/015_aprilmeetup/).
 
-In this episode we talk to Ivan about how he got started in the industry, her love of Cloud Native tech, being a part of the community and helping people around her grow.
+In this episode we talk to Anouska about how she got started in the industry, her love of Cloud Native tech, being a part of the community and helping people around her grow.
 
-Links to points discussed in the podcast can be found in the [CNW MVP Show Notes](https://cloudnativewales.io/podcasts/CNW_MVP_001_ivan001/).
+Links to points discussed in the podcast can be found in the [CNW MVP Show Notes](TBA).
 
 If you'd like to take part in a future podcast, please complete [this form](https://forms.gle/FQPiz53ptBs8vovB8).
 
@@ -42,7 +42,7 @@ The k8s cat with Anouska's favourite cake
 
 ## Podcast link
 
-- [Acast](https://shows.acast.com/cnw/episodes/v001-ivan)
+- [Acast](https://shows.acast.com/cnw/episodes/v002-anouska)
 
 ## Equipment
 
